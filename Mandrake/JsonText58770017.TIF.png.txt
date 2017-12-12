@@ -1,0 +1,26 @@
+text: "0 3i9\'H 1 9/30/2016 8 13 AM FROM Fax TO 410-502-5136 PAGE 001 OF 004 004 OF 001 PAGE TO Fax FROM AM M3 EMSI LITIGATION SERVICES-RECORD REQUEST-CONFIDENTIAL SEP 302016 PLEASE INCLUDE THIS SHEET WITH RETURNED RECORD S Reference # 03-226038-001 DATE 9/29/2016 9 48 AM To CUSTODIAN OF RECORDS The Johns Hopkins Hospital 1800 Orleans St Baltimore MD 21287 Fax 410 502-5186 From Susan Fanner EMSI LITIGATION SERVICES PO BOX 2528 WACO TX 76702 888 336-8879 866 629-2513 TOLL FREE FAX LINE - We have been requested by Weitz Luxenberg I VC to retrieve Medical records for their - client Patient Dimitrius Jones DOB 01/12/1986 SSN 215-11-4878 Attention Special Abstract of record from 2003 Present. Please - include implant log. Please fax the records with this request cover sheet to 866 629-2513 toll free as soon as possible. If you cannot fax the records back please mail them to the above address. We appreciate your prompt response If you have any questions please contact us at 888 336- 8879. If fees exceed 50 please contact our office before records are sent. If you can accept payment by credit card please call or fax this request so payment can be made. request Prepayment for pages Payment should be payable to Service of Dates First Last CONFIDENTIALITY The documents in this facsimile tiansmission may contain confidential health information that is privileged and legally protected from disclosure by federal law including the Health Insurance Portability and Accountability Act HIPAA This information is intended only for the use of the individual or entity named above. If you are not the intended recipient you are herby notified that reading disseminating disclosing distributing copying acting upon or otherwise using the information contained in this email is strictly prohibited. If you have received this information in error please notify the sender immediately at EMSI 888-336-8879 and destroy this facsimile. "
+annotations {
+  NAME: "Jones"
+  DOB: "01/12/1986"
+  SSN: "215-11-4878"
+  ADDRESS {
+    zipCode: "21287"
+    locations: "Baltimore"
+    stateAbbr: "MD"
+    addressLine1: "The Johns Hopkins Hospital"
+    addressLine2: "1800 Orleans St,"
+  }
+  ADDRESS {
+    poBox: "PO BOX 2528"
+    zipCode: "76702"
+    locations: "WACO"
+    stateAbbr: "TX"
+    addressLine1: "Susan Fanner"
+    addressLine2: "EMSI LITIGATION SERVICES"
+  }
+  DATES_OF_SERVICE {
+    startDate: "2003"
+    endDate: "Present"
+  }
+}
+

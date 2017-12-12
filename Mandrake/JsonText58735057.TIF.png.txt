@@ -1,0 +1,16 @@
+text: "FF240-IP 01/03 09/28/2016 14 27 10 DAN NEWLTN l PARTNERS Wednesday September 28 2016 VIA FACSIMILE 3211843-6552 16-011698 Orlando Regional Medical Center 1414 Kuhl Ave Orlando FL 32806 IN RE Our Client Christopher Clark DOB December 17 1968 Date of Accident August 27 2016 Accident August 27 2016 To Whom It May Concern Qur office has been retained to represent the above-named individual in a claim for a iqjurifts and damages arising out of incident which occurred the above date. out of an incident on the In accordance with the enclosed Medical Authorization form provide us with the us requested items at your earliest convenience. Should there be a charge for these convenience. Should there be a charge documents ask that enclose invoice with the requested records and we will we ask that you an invoice with the requested we remit payment receipt. Please be invoice contains Tax ID number upon Please be sure your invoice your number for accounting purposes. In our continuing efforts to be environmentally conscious please transmit these environmentally please records electronically via email address listed below fax at 407 845-1752. via my email below or at If have questions wish to discuss this matter fully please contact at you have any questions or wish to discuss this matter more fully please contact me at 407 845-1752 orRyan.Gilbert@newlinlaw.com. Sincerely A- yarf Gilbert Esq. "
+annotations {
+  NAME: "Christopher Clark"
+  DOB: "December 17, 1968"
+  ADDRESS {
+    zipCode: "32806"
+    locations: "Orlando"
+    stateAbbr: "FL"
+    addressLine2: "1414 Kuhl Ave"
+  }
+  DATES_OF_SERVICE {
+    startDate: "August 27, 2016"
+    endDate: "August 27, 2016"
+  }
+}
+

@@ -1,0 +1,18 @@
+text: "Group 1 Benefits PM 04 30 FRI SIP/30/2016 2167654010 No. FAX P. 001 a ROUP BENEFIT Wecc .. 01 A. ttAUWWrJtA.. A Paramount Preferred Solutions Company September 30 2016 Cleveland Clinic Attn Health Data Services Ab-7 Cleveland OH 44195 Fax# 216 587-8043 Re ANGELIQUE R. SANDIFER SSN# 272-60-2351 DOB 12/08/1967 Dear Medical Provider Benefits 1 Group is the authorized representative for GREAT LAKES CHEESE CO INC in the - administration of its workers\' compensation program. Enclosed will find an authorization for the release of medical records signed by the above claimant you will find an for release records the above claimant Please send to the following address all office notes pertaining to the and/or treatment of ANY to notes pertaining to care treatment of AREA OF EITHER LEFT OR RIGHT FEET AND/ OR HIPS from 08/23/2006 to 08/23/2016. Benefits 1 Group 25001 Emery Road Suite 340 Cleveland OH 44128 Fax 216 765-4210 If this employee has not been treated for the above condition s by please indicate the line below not you on and fax to 216 765-4210. QI have not treated the injured worker for the body parts/conditions in question Signature Date Thank you for your prompt attention to this request prompt attention to request Sincerely Elizabeth Buck Benefits 1 Group Corporate Office j 1701 Indian Wood Circle j Maumee Ohio 43537 Business Location \\ 25001 Emery Rd. Third Floor j Cleveland Ohio 44128 j 877-765-4200 J Fax 216-765-4210 benefits\' www. group.com Affiliate of 4 PROMS OK A 06D "
+annotations {
+  NAME: "ANGELIQUE R."
+  DOB: "12/08/1967"
+  SSN: "272-60-2351"
+  ADDRESS {
+    zipCode: "44195"
+    locations: "Cleveland"
+    stateAbbr: "OH"
+    addressLine2: "Attn:"
+  }
+  ADDRESS {
+    zipCode: "44128"
+    locations: "Cleveland"
+    stateAbbr: "OH"
+  }
+}
+

@@ -1,0 +1,18 @@
+text: "raxiviaKer on riuiu. lo 13133438722 Page 5/10 Date 9/29/2016 3 04 44 PM Legal Copy Services 1555 Arboretum Dr SE Suite 101 / Grand Rapids Ml 49546-6494 Phone 877 949-1313 /Fax 877 949-2270 www.legalcopyservices.com 9/2/2016 SAINT JOHN HOSPITAL MEDICAL CENTER Attn MEDICAL RECORDS 22101 MOROSSRD DETROIT MI 48236-2148 RE Job Number 160126267 Records of Notikeryer Smith WC Smith Notikeryer Aldi Inc. and Travelers Indemnity Company of Connecticut vs. Aldi and Travelers Company of Connecticut To Whom It May Concern Please find Worker s Compensation subpoena for records requesting records be sent to Legal Copy Services Iric. a Compensation records requesting records sent to Copy Requesting Party Ms. Tanya M. Lamnin Attorney For Defendant Records Requested Any and all medical records etc. from birth to present pertaining to Notikeryer Smith DOB 1/19/1964 Please mail or ship records to Legal Copy Services Inc. 1555 Arboretum Dr SE Suite 101 Grand Rapids MI 49546-6494 Please note below the Worker\'s Compensation Health Care Services General Provision for charges allowable for the copying of medical records. note below the Worker\'s Care Services Provision for charges allowable for the copying of medical records. This provision went into effect on 3/9/2006 R 418.10118 Practitioner facility and health care organization copying charge for medical records. Rule 18 1 A practitioner facility or health care organization shall at the request of the carrier the carrier\'s agent the employee carrier\'s agent the or the employee\'s agent furnish copies of the record for particular covered injury illness to the carrier the carrier\'s agent the employee agent of the case record for a particular covered or illness to the carrier the carrier\'s agent the employee or the employee\'s agent. The maximum fee for providing copies shall be 45 cents per page plus the actual cost of mailing. In addition an administration charge for the staff s time to retrieve and copy the records shall be paid follows copy records be as follows 0-15 Minutes 2.50 Each additional 15 minute increment 2.50 If the total cost will exceed 250.00 please contact our office at 8771-949-1313 for pre-approval. We will gladly reimburse you fully for contact our at 8771-949-1313 for pre-approval. We will gladly reimburse you fully for any expenses that are in accordance with these guidelines. Thank you for your assistance and please call 877 949-1313 with any questions or concerns. Thank you Legal Copy Services Inc. LCS l60I26267.WCSubpoenaCoverLetter-e9a4bl25-9ff a-43c5-90ea-22d820a9a8cc.docx This fax was sent with GF1 FaxMaker fax server. For more information visit http //www.gfi.com "
+annotations {
+  NAME: "Job"
+  DOB: "1/19/1964"
+  ADDRESS {
+    zipCode: "48236-2148"
+    locations: "DETROIT"
+    stateAbbr: "MI"
+    addressLine1: "Attn;"
+    addressLine2: "22101 MOROSSRD"
+  }
+  ADDRESS {
+    zipCode: "49546-6494"
+    locations: "Grand Rapids"
+    stateAbbr: "MI"
+  }
+}
+

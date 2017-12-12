@@ -1,0 +1,24 @@
+text: " MetroPlus Health Plan Request for Records Thursday September 29 2016 Member Name ZHININ MARIA Claim Number 0109131641185 CIN PZ21044C MR# 11645666 DOB 6/5/1942 D/O/S 8/2/2016 - 8/14/2016 Facility NYU HOSPITAL CENTER As part of our fiduciary responsibility MetroPlus is auditing selected hospital claims for fraud and abuse. We looking for physician documentation and clinical evidence that supports the are and that supports the submitted ICD-9 ICD-10 diagnosis and procedure codes. or Please send of the entire medical record this request letter and the UB-04 form to a copy request letter to attention at the address below within 30 days the claim will not be paid. my at 30 or not SHIP TO METROPLUS HEALTH PLAN CODING VALIDATION UNIT 160 WATER STREET 3rd FLOOR NEW YORK NY 10038 ATTN Saral Osborne Respectfully Sarai R. Osborne Administrative Assistant Coding Validation Unit MetroPlus Health Plan 160 Water Street 3rd FI. New York NY 10038 Tel 212 908-5182 Email osbomes@metroplus.org Please Note Submission of electronic medical records either via email cd is encouraged. or "
+annotations {
+  NAME: "MARIA"
+  DOB: "6/5/1942"
+  ADDRESS {
+    zipCode: "10038"
+    locations: "NEW YORK"
+    stateAbbr: "NY"
+    addressLine1: "CODING VALIDATION UNIT"
+    addressLine2: "160 WATER STREET, 3"
+  }
+  ADDRESS {
+    zipCode: "10038"
+    locations: "New York"
+    stateAbbr: "NY"
+    addressLine1: "MetroPlus Health Plan"
+    addressLine2: "160 Water Street, 3rd FI."
+  }
+  DATES_OF_SERVICE {
+    startDate: "8/2/2016"
+    endDate: "8/14/2016"
+  }
+}
+

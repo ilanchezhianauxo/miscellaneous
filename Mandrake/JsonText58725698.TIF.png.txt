@@ -1,0 +1,23 @@
+text: "Received by SEP 3 0 2016 SFM CiOX HEALTH The Work Comp Experts Risk Solutions 09/26/2016 Claim # 558201 Provider TIN # 410883623-1 Dates 09/22/2016 - Present Essentia Health Duluth Clinic - 400 E 3rd St Duluth m 55805-1951 Employer City of Duluth Date of Injury 08/14/2016 Employee Neu Anna E Date of Birth 12/05/1993 SS # XXX-XX-5476 Dear Essentia Health Duluth Clinic - We understand that the above-named patient has received care from your facility. In order for us to appropriately evaluate this workers\' order for us to evaluate this workers\' compensation claim it\'s essential obtain medical information we as quickly as possible. Per MN Statute 176.138 we may obtain medical information relative to this injury without the written consent of the relative to the written consent of the patient. HIPAA privacy rules specifically allow covered entities to disclose protected health information as authorized and to the extent necessary to comply with laws relating to workers compensation programs. See 45 CFR to programs. CFR 164.512 1 . Please forward all office notes for services rendered 09/22/2016 i to present pertaining to the above injury. Please fax medical records to 952-838-2000 thank you For future reference please note that for all providers except hospitals Minnesota Rule 5221.0700 requires that all appropriate medical records needed to adequately document the services charged be submitted with the billing. The billings must be submitted UB-04 for hospitals must be on a UB-04 or a HCFA 1500 for all other providers. Minnesota Rule 5219.0300 Subp. 2 allows record copying charge of .75 allows a record charge of per page. This amount applies whether the record is provided with the billing under separate in to request by the a separate cover or in response to a request by the payer for appropriate record which has not been submitted with the bill. an record has not been submitted with the bill. Pursuant to MN Statute 176.138 copies of medical data we receive in connection with this claim will be made available to the patient/employee this claim will be made available to the patient/employee at any time upon request. Sincerely P.0 Box 9416 Minneapolis MN 55440-9416 000 937-1181 Fax 800 944-1169 wvm.stmic.com "
+annotations {
+  DOB: "12/05/1993"
+  SSN: "XXX-XX-5476"
+  ADDRESS {
+    zipCode: "55805-1951"
+    locations: "Duluth"
+    stateAbbr: "m"
+    addressLine1: "Essentia Health"
+    addressLine2: "400 E"
+  }
+  ADDRESS {
+    poBox: "P.0 Box 9416"
+    zipCode: "55440-9416"
+    locations: "Minneapolis"
+    stateAbbr: "MN"
+  }
+  DATES_OF_SERVICE {
+    startDate: "09/22/2016"
+    endDate: "present"
+  }
+}
+

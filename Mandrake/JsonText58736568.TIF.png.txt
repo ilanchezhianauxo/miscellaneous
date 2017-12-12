@@ -1,0 +1,15 @@
+text: "TO 17833896545 ROM Revathi.SathyanarayanGCigna.con DATE 2016/09/29 09 53 15 Received Revath i Cigna Group In SEP 3 3 su ranee Routing 648 P.O. Box 22325 Pittsburgh PA 15222 IOD Phone 1-877-635-4050 Fax 866 -517-9874 2jft Cigna www.rRvcigr.acom Dr. FISHER September 29 2016 Name SCOTT GOLDEN Incident Number 4059809 Plan/Policy Number FLK0980216 Plan/Policyholder WASTE CONNECTIONS INC Underwriting Company Life Insurance Company of North America of North America Dear Dr. FISHER We are reviewing the Long Term Disability LTD claim for patient SCOTT GOLDEN. Your your SCOTT GOLDEN. Your patient s date of birth is 9/3/1963 . In order to review your patient s eligibility for Long Term Disability LTD benefits will need the we will need following copies of office visit notes from November 21 2015 to Present. Complete visit notes from November 21 2015 to Present. Hospital Intake/Discharge summary and/or Operative Report s Test results/findings for example MRI s EKG s x-ray s etc including meds frequency of treatment referrals Physical Therapy etc. Treatment plan meds frequency treatment referrals Physical Therapy etc. Restrictions and limitations that prevent ed patient from returning to work and prevent ed patient from returning to work Estimated return to work date/date patient released to return to work return to date/date patient was released to return to Physical Ability Assessment to be completed and signed by the provider Assessment to be and signed by the provider Enclosed is an authorization to release this information to us. Please be advised that an off work note is not sufficient documentation to certify disability. that an work note not to certify In order to help expedite the handling of your patient s claim please fax this information to 866-517- your to 9874. If necessary you may also mail the requested information to the above address. you may the to address. Any expenses incurred for this information are the responsibility of Cigna. Please contact office at 1-877-635 4050 should you have any questions. our at 1-877-635 4050 you have any Sincerely Revathi Medical Records Processor registeredLertfee Corporation anirHe / / Cigna and the Tree of Life logo are marks of Cigra/tellectual Property Inc. licensed for use byCigna Corporation operating subsidiaries. All products and services are provided by or tfWugh such operating subsidiaries including Lim Insurance Company North America. Connecticut General Life Insurance Company and Cigna Life Insurance Company of New York and not by Cigna Corporation X / ijo B REF 5573312A001 PAGE 3 OF 6 "
+annotations {
+  NAME: "SCOTT GOLDEN"
+  ADDRESS {
+    poBox: "P.O. Box 22325"
+    zipCode: "15222"
+    locations: "Pittsburgh"
+    stateAbbr: "PA"
+  }
+  DATES_OF_SERVICE {
+    startDate: "November 21, 2015"
+    endDate: "Present"
+  }
+}
+

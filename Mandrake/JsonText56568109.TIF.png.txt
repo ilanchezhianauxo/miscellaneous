@@ -1,0 +1,22 @@
+text: "RECEIVED BY IOD 08/01/2016 Fax 1-8015177722 To From Telepro Team 7203 DaLe 07/28/16 03 26PM Page 2 of 5 439920N CASE# TEAM 63C S DESK 9 4th RECORDS REQUEST DATE 7/13/2016 RETURN FAX# 800 796-9740 NAME STEVEN M GENSKAY company METLIFE INVESTO RS C RUM P- WEST FAST TRK-T3 NAME - - SSN XXX-XX-6221 ACCT# 020416 DOS 5/04/1983 POLICY# 216036371 STATE MN 18255467 FACILITY ALLINA HEALTH UNITED LUNG SLEEP CLINIC ADDRES5 225 N SMITH AVE STE 501 CITY/ST ST PAUL MN 55102 MARTIN REQUESTER PHI 651 726-6200 IJ/W TFAM FAX# 000 000-0000 SPECIAL INSTRUCTIONS PLEASE RETURN THIS FORM WITH REQUESTED INFO LAST 5 YRS MEDICAL RECORDS RETURN TO PO Box 45013 SALT LAKE CITY UT 84145 TEAM 630 PHONE 888-343-9792 These documents may contain confidential health information that is privileged and legally protected from disclosure by federal law including the Health Insurance Portability and Accountability Act HIPAA . This information is intended only for the use of the individual or entity named above. If you are not the intended recipient you are hereby notified that reading disseminating disclosing distributing copying acting upon or otherwise using the information contained in this correspondence is strictly prohibited. If yoj have received this information in error please notify the sender immediately and destroy these documents. 7/28/2016 15 26 27 IDRPRTBIJN 4146 7203 1 IDR212 "
+annotations {
+  NAME: "STEVEN M"
+  DOB: "5/04/1983"
+  SSN: "XXX-XX-6221"
+  ADDRESS {
+    poBox: "PO Box 45013"
+    zipCode: "84145"
+    locations: "SALT LAKE CITY"
+    stateAbbr: "UT"
+  }
+  REQUESTOR_ADDRESS {
+    poBox: "PO Box 45013"
+    zipCode: "84145"
+    locations: "SALT LAKE CITY"
+    stateAbbr: "UT"
+  }
+  DATES_OF_SERVICE {
+    startDate: "5/04/1983"
+  }
+}
+

@@ -1,0 +1,16 @@
+text: "f- UnitedHealthcare Wisconsin Community Plan September 19 2016 RECEIVEO SEP 2 6 2016 7 SEP ED DIRECTOR OF MEDICAL RECORDS DEPT HARRISON MEDICAL CENTER 1717 South J Street Mail Stop 01-42 - Tacoma WA 98405 2 V /VV.R C\\M Liaison Hospital Dear1\'TSo/\'7 \\t \'7 UnitedHealthcare Community Plan Wisconsin has requested a review of medical records for the patient s listed on the attached document. For the purposes of performing its DRG Validation review UnitedHealthcare Community Plan Wisconsin requests that the information outlined below be forwarded to Attention MedReview th FI 199 Water Street 27 FI oor New York NY 10038 Records-UHC@medreview.us Medical chart documentation for the stay to include Discharge summary Medication record Surgical operative notes History and physical Intake/output record Anesthesia record Progress notes IV flow sheets Pathology report Physician s orders Respiratory therapy Procedure report Consultation reports Any other pertinent Nurse s notes information in medical chart In order to expedite the review process please submit the medical record for each case listed within 45 calendar days from the date on the letter. Please also attach and forward a copy of this correspondence in your communication. Should the medical record not be forwarded to the New York County Health Services Review Organization/MedReview Inc. NYCHSRO/MedReview UnitedHealthcare Community Plan Wisconsin will make its determination based on information it has at the time the DRG was billed. A corresponding adjustment in reimbursement will be made according to the reassigned DRG or combined admission. If you have any questions about the above please feel free to contact MedReview at 212-897-6006 fax 646-699-7090. Sincerely COPIED BY K D 6q3 ssn /SK3/OTH FRALLNN 1 2 3 4 5 6 MedReview Inc. CL a No Charge Wisconsin Plan Community UnitedHealthcare of behalf Address a Verified Payer a on behalf of UnitedHealthcare Community Plan Wisconsin CL Invoice Cert Bite Problem Form a -M l ig i In Tliy/Ls - f foj Jj/lo Date votD The NYCHSRO/MedReview and UnitedHealthcare Community Plan relationship includes a Business Associate Agreement compliant with HIPAA privacy and security regulations. Coverage provided by UnitedHealthcare of Wisconsin Inc. "
+annotations {
+  ADDRESS {
+    zipCode: "98405"
+    locations: "Tacoma"
+    stateAbbr: "WA"
+    addressLine1: "HARRISON MEDICAL CENTER"
+    addressLine2: "1717 South J Street - Mail Stop"
+  }
+  ADDRESS {
+    zipCode: "10038"
+    locations: "New York"
+    stateAbbr: "NY"
+  }
+}
+

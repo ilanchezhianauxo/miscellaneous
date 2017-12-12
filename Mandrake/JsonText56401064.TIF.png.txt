@@ -1,0 +1,26 @@
+text: "1-2165878043 Fax records medical To From Telepro Team 7203 Date 07/22/1 6 01 29PM Page 2 of 6 Fax 1-2165878043 Date 6 01 29PM Page 2 6 EMSI F653933 EMSI case# TEAM 7203 DESK 11 RECORDS REQUEST DATE 6/16/2016 RETURN F AX# 866 236-1820 NAME FRANK A SCALISH company BANNER-CRUMP-WEST-STANDARD/T3 SSU XXX-XX-5359 ACCT# 019616 DOB 1/23/1979 P0LICY# 181198116 STATE OH 18270227 FACILITY CLEVELAND CLINIC FOUNDATION ADDRESS 9500 EUCLID AVE MAIL FOLDER AB-7 CITY/ST CLEVELAND OH 44195 SIPES REQUESTER PH# 0000000-0000 U/K TEAM SPECIAL INSTRUCTIONS PLEASE RETURN THIS FORM WITH REQUESTED INFO 5/2016 TO PRESENT RETURN TO PO Box 2505 Waco TX 76702-2505 TEAM 7203 PHONE 800 766-6269 These documents may contain confidential health information that is privileged and legally protected fron disclosure by federal law including Lhe Health Insurance Portability and Accountability AcL HIPAA . This information is intended only tor the use of the individual or entity named above It you are not the intended recipient you are hereby notified that reading disseminating disclosing distributing copying acting upon or otherwise using the information contained in this correspondence is strictly prohibited. If you have received this information in error please notify the sender immediately and destroy these documents. 7/21/2016 13 28 48 IDRPRTBUN 3004262 7203 11 IDR212 "
+annotations {
+  NAME: "FRANK A"
+  DOB: "1/23/1979"
+  ADDRESS {
+    zipCode: "44195"
+    locations: "CLEVELAND"
+    stateAbbr: "OH"
+  }
+  ADDRESS {
+    poBox: "PO Box 2505"
+    zipCode: "76702-2505"
+    locations: "Waco"
+    stateAbbr: "TX"
+  }
+  REQUESTOR_ADDRESS {
+    zipCode: "44195"
+    locations: "CLEVELAND"
+    stateAbbr: "OH"
+  }
+  DATES_OF_SERVICE {
+    startDate: "5/2016"
+    endDate: "PRESENT"
+  }
+}
+

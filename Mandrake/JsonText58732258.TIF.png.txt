@@ -1,0 +1,12 @@
+text: "09/28/2016 1 56 43 PM -0500 MAYO FOUNDATION PAGE 1 OF 3 SEP-2B-E016 13i4B From To 40161 Pase ly3 RELIANCE STANDARD P.O. BOX 8330 Philadelphia PA191Q1-B330 COMPANY INSURANCE LIFE 800 351-7500 Fax 267 256-4262 A MEMBER OF THE TOKIO MARINE CROUP September 22 201.6 Dr. Dennis Regan Attn Medical Records Mayo Clinic 200 First St. SW Rochester MN 55905 Claimant Re Eugene FlatjOfd No Policy LTD 124695 No Claim 2016 - 07-26-03 82-LTD-Ol Policyholder TriMark Corporation Dear Dr. Dennis Regan concerning Mr Flatjord\'s claim for long term We recently requested additional information received response to our request. In case our initial disability benefits. To date we have not a response to our request. case our have enclosed a copy for your review. request was misplaced we a copy your disability benefits is dependent upon a response we As Mr. Flatjord\'s eligibility for long term upon immediate attention f yon have any questions please contact ask that you give this matter your yon any 1-800-351-7500. Customer Service Department at our Sincerely zs Diana Barker LTD Claims Department Flatjord cc Eugene 09/28/2016 1 57PM GMT-05 00 "
+annotations {
+  NAME: "Eugene FlatjOfd"
+  ADDRESS {
+    zipCode: "55905"
+    locations: "Rochester"
+    stateAbbr: "MN"
+    addressLine1: "Mayo Clinic"
+    addressLine2: "200 First St. SW"
+  }
+}
+

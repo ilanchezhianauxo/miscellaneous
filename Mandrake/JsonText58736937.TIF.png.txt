@@ -1,0 +1,8 @@
+text: "Patient Financial Services Request for Medical Records Date 10/3/16 Patient Name Ruthie Landers Patient Account Number 2016264-6029 Date of Service 2/5/16 Medical Record Number Information Needed v. Entire Medical Records Chart Progress Notes Discharge Summary Opt ReportVProcedure Notes Admission Summary HistoryXPhysical Nursing Notes Physicians Orders Physical Therapy/Rehab Notes Labs Radiology Report Pathology Report Respiratory Therapy/Speech Notes Signature- Date IOD Completed Date # of pgs. "
+annotations {
+  NAME: "Ruthie Landers"
+  DATES_OF_SERVICE {
+    startDate: "2/5/16"
+  }
+}
+

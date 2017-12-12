@@ -1,0 +1,9 @@
+text: "To Cleveland Clinic Page 2/4 Date 9/23/2016 1 22 25 FM P 9E8MScont 09/26/16 Attending Physician Statement Request 15394526 Case Medical Information REQUESTED FROM RELEASE Medical Information TO Clinic Cleveland NACOLAH Life Insurance CIO PDC Retrievals P.O. Box 150356 Kew Gardens NY 11415 Attention Cleveland Clinic Fax 1 877 516-1476 Fax 12164457589 Phone 1 212 223-3228 ext.15394526 RELEASE Medical Information ON Evansa Nancy DOB 11/19/40 SSN XXX-XX-6548 Address 17543 Fairlawn Dr Chagrim Falls OH 44023 TYPE of Medical Information to RELEASE Please provide only what is requested in the SPECIAL REQUEST section below. Please do not send partial records as we will have to reorder the missing information. SPECIAL REQUEST Please provide information for the last 5 years. Please obtain tne last 5 years of records. Email status@Darameds.com for assistance Email medical records to records@parameds.com\'1 - If the fee for records exceeds 158.00 or this release is not valid please call us at 1 212 223-3228 ext. 15394526. NOTE For faster delivery UPLOAD these records to our secure HIPAA compliant website at www. parameds. com/upload THESE DOCUMENTS CONTAIN CONFIDENTIAL INFORMATION THAT IS PRIVILEGED AND LEGALLY- PROTECTED UNDER FEDERAL HIPAA LAW. IF YOU ARE NOT HE INTENDED RECIFIENT PLEASE CONTACT US IMMEDIATELY A3 ANY USE OF THIS INFORMATION IS PROHIBITED. PLEASE SEND THIS FORM BACK WITH THE REQUESTED MEDICAL RECORDS C D P O O 1 015394526 0 0 10 10 0 1 N "
+annotations {
+  DOB: "11/19/40"
+  SSN: "XXX-XX-6548"
+  DATES_OF_SERVICE {
+    option: "last 5 years"
+  }
+}
+

@@ -1,0 +1,23 @@
+text: "Sep. 30. 2016 8 37AM No. 2858 P. 1/5 Stratos Records 4299 San Felipe Street Suite 350 Houston TX 77027 713-375-0121 FAX 281-200-0830 Email address Expeditors@stratoslegal.com VIA l MAIL J FAX COVER AND PAGES CUSTODIAN OF RECORDS MuItiCare Good Samaritan Hospital - 40115th Avenue Southeast Puyallup WA 98372 Main 855-073-2673 Fax 253-333-2419/253-697-7293 Please find enclosed a request for records of Kathy Ray DOB 03/22/1954 SSN 536-60-4973 We are requesting \\ Any and all Admit Summary Discharge Summary Discharge Instructions Interventional \\ Radiology Procedures Report s Radiology Report s H P History and Physical Operative Report FOR 01/01/2006 TO 12/31/2008 Peri-Operative and/or Intra-Operative Notes NO OTHER Doctor or Nurse Notes Implant Tracking/Identification Information and/or Sticker Page for any surgical implants Diagnostic Testing to Include MRI VQ Scan CT Scan any to X-Ray Venous Doppler and Ultra Sounds excluding pre natal ultrasounds NO LAB / RESULTS PLEASE PROVIDE RECORDS ELECTRONICALLY IF POSSIBLE PLEASE FORWARD ON CD. Per the HITECH ACT and HIPAA Omnibus Rule Please call to confirm you have received our request We will call you within 3-5 days for a . fee approval IF YOUR FEES EXCEED 100.00 please call for approval before page count and approval IF sending records. Please have records sent by fax to 281 200-0830 or mailed to the address sent to or to above. If approval is not given or if an invoice is not sent with the records we WILL NOT be responsible for charges. Thank for cooperation. you your We need these records and legal documents returned BEFORE and documents Contact Angelica Rojas Order No. 187611.001 "
+annotations {
+  NAME: "Kathy Ray"
+  DOB: "03/22/1954"
+  SSN: "536-60-4973"
+  ADDRESS {
+    zipCode: "77027"
+    locations: "Houston"
+    stateAbbr: "TX"
+  }
+  ADDRESS {
+    zipCode: "98372"
+    locations: "Puyallup"
+    stateAbbr: "WA"
+    addressLine1: "MuItiCare - Good Samaritan Hospital"
+    addressLine2: "401 15th Avenue Southeast"
+  }
+  DATES_OF_SERVICE {
+    startDate: "01/01/2006"
+    endDate: "12/31/2008"
+  }
+}
+

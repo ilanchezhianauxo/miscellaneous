@@ -1,0 +1,21 @@
+text: "From EIS Thu 29 Sep 2016 09 00 40 AM PDT Page 1 of 5 H 3i0 QO-Sn REQUEST CONFIRMATION EIS PROCESSING CENTER P.O. BOX P TORRANCE CA 90508 TEL. 888 846-8804 FAX 310 320-5031 Date Thursday September 29 2016 Work Order No. 1560289 1560289 To JOHNS HOPKINS MEDICINE Patient ERIK LICHTER DOB 4/27/1972 SS# - \'-4430 STREET CAROLINE NORTH 601 Address MR# BALTIMORE MD 21287 Phone 410 955-9500 Fax 14105025186 Contact RELEASE OF INFORMATION To Medical Records Department Enclosed with this letter please find request for medical records along with the a request patienl\'s HIPAA signed release. We at EIS understand how tills process lakes away from your daily tasks and would at process away your like to this process and avoid unnecessary calls to your office. ease process unnecessary to your Please confirm by fax that have received our request and that the signed you our request authorization acceptable for the release of patients medical information. Our fax is number is .110 320-5031. Thank you for your cooperation. your Please initial next to the appropriate response. Authorization approved Yes No Letter of Representation required Yes No Facility Authorization required Yes No Records Available Yes No Thank you again for your assistance and cooperation. "
+annotations {
+  NAME: "ERIK LICHTER"
+  DOB: "4/27/1972"
+  ADDRESS {
+    zipCode: "21287"
+    locations: "BALTIMORE"
+    stateAbbr: "MD"
+  }
+  ADDRESS {
+    zipCode: "90508"
+    locations: "TORRANCE"
+    stateAbbr: "CA"
+  }
+  REQUESTOR_ADDRESS {
+    zipCode: "21287"
+    locations: "BALTIMORE"
+    stateAbbr: "MD"
+  }
+}
+

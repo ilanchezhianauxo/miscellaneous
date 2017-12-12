@@ -1,0 +1,21 @@
+text: "b s Attorneys Douglas J. Brown Jeffrey G. Carlson Mark G. Pryor Gregory R. Broos brown carlson p.a. Gina M. Uhrbom Thomas V. Maguire ATTORNEYS AT LAW EST 1992 September 28 2016 James K. Helling Timothy J. Manahan ATTENTION Medical/Legal Records Carrie I. Jacobson Essentia Health Systems Eric S. Hayes 400 E 3rd St Tracy M. Borash Duluth MN 55805 Elizabeth Chambers-Brown Darren B. Glur RE Timothy Reinke Essentia Health Services/SMDC v. Helgren F. Penny SSN 472-02-4691 Larson A. Paula DOI 01/31/2013 Kathryn M. Perlinger Our File 19.019404 Autumn Capelle Hoag Nicholas J. Micheletti Dear Medical Records Clerk Daniel D. Carlson Kristin Driscoll Nervig We represent Essentia Health in a worker s compensation matter brought by Julie A. Williams the above referenced patient. Enclosed please find Authorization for the Release Sean M. Abernathy an of Medical Information. Please send updated of the medical record file James Fritz Hauschild Information. us an copy SunCica Sejdinovic from 6/9/15-Present pertaining to the above-referenced patient. We would also like Kathryn L. Babb to obtain copies of any and all x-ray MRI or CT films from 6/9/15-Present done of the lower extremities please forward of this to the radiology/film Counsel Of a copy to Counsel This information is needed for the of workers compensation Hammarberg K. Jon room. purpose a Hill Holden Elizabeth matter. Please provide a copy of my request letter with your records. Administrator Barbara J. Romanko CLM Minn.Stat.Sec. 176.138 requires within 7 days from the date a response seven of this request. Any effort can make in complying with that statutory request. you can Paralegals requirement would be greatly appreciated. Lisa M. Lewnau Dyer D. Darren Please bill for copying service charges advise if prepayment is us your or or prepayment Michelle L. Daniels required. If the cost of obtaining these records will exceed 100 please call for cost Katherine L. Hettle approval prior to copying. Tammara L. Thurmer Fasching S\'. Lesa Thank for assistance in this matter. If have questions please feel you your matter. you any Matzke M. Lisa free to call. Jennifer A. Peterson Livja R. Christianson Sincerely Linda K. Brickley Heather R. Bakken Tammara Thurmer Paralegal Also Admitted in Wisconsin TLT/Enclosures Also Admitted in Illinois Writer\'s direct line 763-253-0151 Received by Avenue Down Circle 5411 e-mail tthurmer a .brownandcarlson. Avenue Down Circle 5411 com Suite 100 OCT 0 3 2016 CC James Peterson Minneapolis MN 55416-1311 763 591-9950 CiOX HEALTH Fax 763 591-9202 www.brownandcarlson.com "
+annotations {
+  NAME: "Timothy Reinke"
+  SSN: "472-02-4691"
+  ADDRESS {
+    zipCode: "55805"
+    locations: "Duluth"
+    stateAbbr: "MN"
+    addressLine1: "Essentia Health Systems"
+    addressLine2: "400 E"
+  }
+  ADDRESS {
+    zipCode: "55416-1311"
+    locations: "Minneapolis"
+    stateAbbr: "MN"
+  }
+  DATES_OF_SERVICE {
+    startDate: "01/31/2013"
+  }
+}
+

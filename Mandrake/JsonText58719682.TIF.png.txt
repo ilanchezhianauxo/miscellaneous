@@ -1,0 +1,7 @@
+text: "1 .1 f 0 S ECU RA 1NSURANC6 CO HIES September 21 2016 RECEIVED SEP 2 8 REC\'D BAYCARE MEDICAL CENTER ATTN MEDICAL RECORDS - 2845 GREENBRIER RD 1REEN BAY WI 54311 Employee Kyle Korzeniewski Employer Tri City Glass Door D/Injury 9/20/16 neck OB 12/11/90 No laim W0051751 i Dear Medical Provider 1 am currently handling a worker s compensation claim for a Kyle Korzeniewski who work related injury around 9/20/16 neck . The insured and the patient s ustained a on or around and the patient advised that facility had provided him with medical ave us your care. Please send fax of all medical records and bills on HCFA UB92 in or me a copy a HCFA or UB92 in possession that relate to this work injury. your to Sincerely 0 Keith M Stark Senior Claims Representative 920 830-4460 Phone 920 739-5489 Fax V/orker s Compensation Unit 11 tMlfc Appleton Wlscon 315 1 PO Box 819 Appleton Wisconsin 54912-0819 I 9 739-3161 1 wwwsecui tn t \'.I I..D-J I .D.DV A. "
+annotations {
+  DATES_OF_SERVICE {
+    startDate: "9/20/16"
+  }
+}
+

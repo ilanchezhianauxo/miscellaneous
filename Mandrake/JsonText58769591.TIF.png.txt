@@ -1,0 +1,14 @@
+text: "4T0l w IB Litigation Solutions LLC Danielle Caruso Brentwood Towne Centre \' j \' J 25pl . . 101 Towne Square Way Suite 0 3-3-\\b Pittsburgh PA 15227 Phone 412-253-1143 I Fax 412-253-1172 Email Danielle.Caruso@litsol.com www.litsol.com \' cH Hl01 Delaware County Memorial Hospital 501 N. Lansdowne Avenue Drexel Hill PA 19026 Attn Medical Records Correspondence 610-284-8100 9/28/2016 Subject Norma Davis-Fooks SSN# xxxx Date Of Birth 12/01/1958 PLEASE RUSH complete of any and all medical records from 09/02/2006 to a copy any to Present including records charts test results reports correspondence office notes patient intake forms computerized records Emergency Room Records Emergency Room Physician Notes Emergency Room Nurses Notes Emergency Room Discharge Summaries/Orders Emergency Room Prescriptions etc. PLEASE EXCLUDE ALL etc. SENSITIVE INFORMATION AS IT PERTAINS TO HIV/AIDS/MENTAL HEALTH. Dear Sir Madam or The attached Subpoena is being served by Litigation Solutions LLC the chosen representative for Damaris Garcia Esquire of Law Offices in order to retrieve the to necessary records pertaining to the above named individual. to Please complete the attached Certification of Compliance and forward complete complete and a complete copy of the specified records regarding Norma Davis-Fooks to attention specified to my attention as soon as possible. Per HIPAA Regulations please find attached of the Certificate Pre-Requisite and a copy and Notice of Intent to Serve Subpoena which properly produced to Plaintiffs Counsel to a was to along with all other interested parties in this lawsuit. Please let this Certificate Pre-Requisite and Notice of Intent proof that Plaintiffs Counsel and other interested parties serve as Counsel and other interested parties were given 20-days to object to the issuance of this subpoena which is mandated by applicable to applicable law. To date objections to the issuance of the attached subpoena have been fded no to the the attached subpoena have been fded therefore pursuant to Rule 4009.22 must produce the documents things pursuant to you must produce the documents or things required by this subpoena within twenty 20 days after its service. Failure to do twenty days after its service. Failure to do so result in court order compelling to comply. may in a court order compelling you to comply. Pennsylvania House Bill 1048 Act 26 regulates charges imposed by Health Care by Providers 21.69 retrieval fee Pages 1-20 at 1.46 / 21-60 at 1.08 / page pages at page "
+annotations {
+  NAME: "Norma Davis-Fooks"
+  DOB: "12/01/1958"
+  ADDRESS {
+    zipCode: "15227"
+    locations: "Pittsburgh"
+    stateAbbr: "PA"
+  }
+  DATES_OF_SERVICE {
+    startDate: "09/02/2006"
+  }
+}
+

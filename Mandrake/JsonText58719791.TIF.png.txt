@@ -1,0 +1,16 @@
+text: "Anlhein Blue Cross and Blue Shield 1 OT ITS/B lueCard Dept. - KlailStoj OH 09U3-A719 01954 P.O. Box 105557 Atlanla GA 30348 Anthem. RECEIVED srp23 # # # ALL FOR AADC 5H1 o 412m L AB 0.3 55 135 ATTENTION BIAJECARD MEDICAL RECORDS o 2 AURORA BAYCARE MEDICAL CENTER PO BOX 8920 o GREEN BAY WI 54308-8920 We are requesting additional information to continue processing a claim Please provide the requested information within 10 business days of receiving this request. Date of Request 1st Request August 29 2016 Patient Naine CLEMENT HUGENROTH Patient Sex M Patient Dajte of Birth 07/28/1947 Date of Service 08/05/2016 8 Subscriber ID TBBAN2380935 r Account ft umber H14457280800 S g 8 tx Total Cha rges 1 505.92 5. I Claim Number 16225BW2269 8 E2gS2 SCCF 45820162251478400 S Note On \'y attach records/correspondence for the Patient noted on the first Page. I 1 Please provide the following information 1 CU Y 5 Type Description Date Range if applicable History and Physical Please provide history and physical. Letter/Form of Medical Necessity Please provide the letter/form of medical necessity. Nursing / Office Notes 1 Physician Please provide the Physician / Nursing / Office Notes. Other Please prqvide procedure code and test result. If you have already submitted this information please disregard this request. Please return this letter and the sj 5 requested information either by fax or mail to eafa350f805alaleb7 59cl042lb2 6f9e Anihem Blue Cross and Blue Shield is the trade name of In Indiana Anthem Insurance Companies Inc. In Kentucky Anthem Health Plans of Kentucky Inc. In Missouri excluding 30 counties in the Kansas City area RightCHOICE Managed Care Inc. RIT . Healthy Alliance I ife Insurance Company HALIC and HMO Missc uri uri Inc. RIT and certaii affiliates administer non-HMO benefits underwritten by HALIC and HMO benefits underwritten by HMO Missouri Inc. RJT and certain affiliates only affiliates only provide administrative services for self-ftmded plans and do not underwrite benefits. In Ohio Community Insurance Company. In Wisconsin Blue Cross Blue Shield of Wisconsin BCBSW i . which underwrites or administers the PPO and indemnity policies Cotnpcare Health Services Insurance Coiporation Compcare which underwrites administers the PPO and indemnity policies Cotnpcare Health Services Insurance Coiporation Compcare which underwrites land or udministers the HMO policies and Compcare and BCBSWi collectively which underwrite or administer the POS policies. Independent licensees of the Blue Cross Association. Blue Shield ANTHEM is a registered trademark of Anthem Insurance Companies Inc. The Blue Cross and Rlue Shield and symbols the registered and Rlue Shield names and symbols are the registered 4ro \\f tko Dliio 4ivl Rltt AcsAi\'iflli "
+annotations {
+  NAME: "CLEMENT HUGENROTH"
+  ADDRESS {
+    poBox: "PO BOX 8920"
+    zipCode: "54308-8920"
+    locations: "GREEN BAY"
+    stateAbbr: "WI"
+    addressLine1: "ATTENTION:"
+    addressLine2: "AURORA BAYCARE MEDICAL CENTER"
+  }
+  DATES_OF_SERVICE {
+    startDate: "08/05/2016"
+  }
+}
+

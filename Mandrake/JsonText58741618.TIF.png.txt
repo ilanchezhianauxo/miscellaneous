@@ -1,0 +1,16 @@
+text: "Internal Use ONLY - Donot send this form to Date Completed payor bri t 4 b\'py 11 i Medical Record # 778002 From Jessica Redington Phone # 800-4B0-3762 ext 5743 Date 9/29/2016 Patient Name Senor Ann DOB 06/20/1940 Admit Date 10/20/2015 Discharge Date 10/23/2015 HSV MIP Account # 7820070 I I Xl Chart O Q ER report Entire Chart Script Report Other Please send medical records to to Humana Insurance Co. phone# 800-448-6262 PO Box 14601 Lexington KY 40512 Attention Medical Records Via nUPS/Fed Qvernight Certified Ex Mail Return Receipt Qnter-office Q I iReturn FAX To RSC The documents accompanying this transmission contain confidential healtli information that is legally privileged. This information is intended only for the of use of the individual or entity named above lhe authorized recipient of this information is prohibited from disclosing this information to any other party unless required to do so b\\\' law or regulation and Ls required to destroy the information after its stated need has been filled. If you are not the intended recipient you are hereby notified that any disclosure copying or distribution of the contents of these documents or action taken of these documents or action taken in reliance on the contents of these documents is strictly prohibited. If you have received this information in error please notify the sender immediately and arrange for the return or destruction of these documents. "
+annotations {
+  NAME: "Ann"
+  DOB: "06/20/1940"
+  ADDRESS {
+    poBox: "PO Box 14601"
+    zipCode: "40512"
+    locations: "Lexington"
+    stateAbbr: "KY"
+  }
+  DATES_OF_SERVICE {
+    startDate: "10/20/2015"
+    endDate: "10/23/2015"
+  }
+}
+

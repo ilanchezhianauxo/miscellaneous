@@ -1,0 +1,20 @@
+text: "5933114 920 1 Fax To 333-2598 763 Fax Hansen Ann Fiom Page 2 of 4 10/11/2016 3 12 PM PEEASE RETURN THTS PAGE FOR TRACKING PAYMENT 8 S American Retrieval Docjmen Retrieval Ssrv ss 08/30/2016 Record Request# 158180 Work Order# 559433 Fax # 920-593-3114 Attention Medical Records IMPORTANT PLEASE RESPOND Essentia Health Systems ON OR BEFORE 09/12/2016 100 E 3rd Street Duluth MN 55805 RE Erickson Susan DOB 09/20/1950 REVISED REQUEST PERTINENT/ABSTRACT ONLY SSN - ORDER# 46486064 Attention Medical Records Enclosed is a document tor the release of information for Susan Erickson. We would appreciate if you would forward a copy of the following Medical Records from 07/21/2013 to 07/20/2016. No blood urine labs notes flow sheets medication lists. or urine labs nurses notes flow sheets medication lists. We would appreciate that these records be forwarded to Amen can Retrieval before 09/12/2016. if you feel you are unable to meet this time frame please call the undersigned. We also understand that there may be a fee for processing this request. If so please include an invoice and a copy of this cover letter with the records and we will promptly submit payment. If yuur company requires prepayment please call immediately so that we may expedite this process. Alsu we would appreciate a call if you anticipate the charges lobe greater than 150.00 so we may have the option lorequesi less or gel client approval. Thank you for your anticipated cooperation. Sincerely Ann Hansen ahansenw/amen canretri eval. com If any questions or problems develop call. .763-233-7300 or 888-972-9901 Records may also be faxed to. .763-233-7301 or 888-972-9902 Please be advised we will only pay according to the states statute for copies of records Thank you. American Retrieval Company 2905 Northwest Blvd. Suite 228 Plymouth MN 55441 763-233-7300 10/11/2016 3 14-PM GMT-05 00 "
+annotations {
+  NAME: "Susan"
+  DOB: "09/20/1950"
+  ADDRESS {
+    zipCode: "55805"
+    locations: "Duluth"
+    stateAbbr: "MN"
+  }
+  ADDRESS {
+    zipCode: "55441"
+    locations: "Plymouth"
+    stateAbbr: "MN"
+  }
+  DATES_OF_SERVICE {
+    startDate: "07/21/2013"
+    endDate: "07/20/2016"
+  }
+}
+

@@ -1,0 +1,17 @@
+text: "D MODGAN MODGi l 20 N. ORANGE AVENUE 16th FLOOR POST OFFICE BOX 4979 ORLANDO FL 32802-4979 received 407 420-1414 I SEP 3 22 2016 r Septemb v 0 20I6 tesss I Hill 111 lllil III IIIII1IIIIII1I1U 3 9 1503 Orlando I iealth Patient Accounts - 309 Caruso Court. Orlando FL 32806- Re Our Client Jovonnie Goodson. / D/Accident April 26 2016 08/03/1985 Date of Birth of Dear Sir or Madani j ouAs firm represents the above individual for injuries she sustained in the referenced are j ou aware our represents accident Our records indicate there be outstanding balance with office for treatment that was rendered may an your treatment was ifjany in connection with this accident. Please indicate the attached form what balance is outstanding on this at time. Also please provide our office with a complete itemized list of services and charges. 1 So that your bill is our a 1 your in proper form for evidence please OMIT any reference to insurance payments. proper any to payments. Please respond to this letter listing outstanding balances within ten 10 days. Verbal to to any ten responses to this request will not be accepted. All account balances must be in writing. request not account must . Thank for prompt attention to this matter. Should have questions please do not hesitate you your prompt to matter. you any not to contact my Case Manager Brittany A. Avant directly at 407 236-5969 orbavant@forthepeople.com. You can fax reply to directly at 407 245-3437. can your to me at v Sinc r y / b Jose H. Shaughriessy mV HS Tecs nia i -1-www.forthepeople.com- GA ATLANTA EOV GNG GREEN KY COLUMBUS GA DAYTONA BEACH FL FT. MYERS FL JACKSON. MS JACKSONVILLE FL KISSIMMEE FL LAKELAND FL Lc 1 Lc KY LEXINGTON IJ1SVILLE KY MELBOURNE FL MEMPHIS MOBILE AL NAPLES FL NASHVILLE NEW YORK NY ORLANDO FL PENSACOLA FL Flit F PLANTATION RESTONSBURG KY ST. AUGUSTINE FL ST. PETERSBURG FL SARASOTA FL SAVANNAH GA TALLAHASSEE FL TAMPA FL TAVARES FL THE VILLAGES FL WEST PALM BEACH. FL WINTER HAVEN FL "
+annotations {
+  NAME: "Jovonnie Goodson"
+  ADDRESS {
+    poBox: "POST OFFICE BOX 4979"
+    zipCode: "32802-4979"
+    locations: "ORLANDO"
+    stateAbbr: "FL"
+  }
+  ADDRESS {
+    zipCode: "32806"
+    locations: "Orlando"
+    stateAbbr: "FL"
+    addressLine2: "309()"
+  }
+}
+

@@ -1,0 +1,20 @@
+text: "Admin Security Social Of 14 49 21.08.16 HelpDesK# 8776974889 Page 1/4 30mR ADS-E6 20160921400251 p y Type Batch II1III1HII9W RETURN THIS PAGE AS PAGE 1 AU RORA BAYCARE MEDICAL CTR SEND ONLY ONE RELEASE OF INFORMATION PATIENT RECORD PC BOX 8900 GREEN BAY Wl 54308-8900 PER RESPONSE P ease fax your response toll-free to 1-866-804-6783. Use this bar-coded cover page as the fax cover sheet do not use your own fax cover sheet. Fax to Wisconsin DDB Number of Pages of Pages Case# 1883645 Autiorization # 20160921400251 RE LUIS A ESCOBAR RQID LWI0007K7ZN00 SITE S56 DR S SSN 393132131 DOCTYPE 0001 RF D CS ea2e \'lo Records Please check payment option below Please check payment option below - USE THIS PAGE AS YOUR INVOICE We will pay up to 26 for medical records from CHECK APPLICABLE BOX Wisconsin vendors or up to the maximum medical records\' fee allowed for your state. Please verify Records Sent 26 No Records 26 name phone and tax ID. If there are ANY changes provide the correct information on D No Charge this page. If NO tax ID is listed please provide one to facilitate payment. If you have any YOUR INVOICE # questions call our Fiscal Services Department at 800-122-8023. If unable to fax your response mail to IODNC 1030 DNTARJO RD SSA S56 PO BOX 19072 - PO BOX 8910 GR i N BAY WI54307-9072 LONDON KY 40742-9751 TAX D 650765287 PHOFE 866-420-7455 Vendor#0000083S "
+annotations {
+  NAME: "LUIS A"
+  SSN: "393132131"
+  ADDRESS {
+    zipCode: "40742-9751"
+    locations: "LONDON"
+    stateAbbr: "KY"
+    addressLine1: "SSA S56"
+    addressLine2: "PO BOX 8910"
+  }
+  ADDRESS {
+    zipCode: "40742-9751"
+    locations: "LONDON"
+    stateAbbr: "KY"
+    addressLine1: "SSA S56"
+    addressLine2: "PO BOX 8910"
+  }
+}
+

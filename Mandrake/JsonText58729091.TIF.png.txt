@@ -1,0 +1,20 @@
+text: "if Litigation Solutions LLC Adrian Zankel Brentw ood Towne Centre 101 Towne Square Way Suite 251 Pittsburgh PA 15227 I Phone 412-253-1124 Fax 412-253-1 168 Email Adriane.Zankel@litsol.com www.litsoi.eoin Thomas Jefferson University Hospital MRU AgW-fln/ 111 South 11 th Street Room 1950 Gibbon Bldg Health Information Department Philadelphia PA 19107 Attn Medical Records Correspondence 215-955-6000 9/20/2016 Subject Willis Payne SSN# 5464 Date Of Birth 07/01/1982 Please remit complete of and all medical records fro 07/01/1982 to present a copy any m to present including records charts test results reports correspondence office notes patient intake test reports notes forms computerized records Emergency Room Records Emergency Room Physician Notes Emergency Room Nurses Notes Emergency Room Discharge Summaries/Orders Emergency Room Prescriptions etc. etc. Dear Sir Madam or The attached Subpoena is being served by Litigation Solutions LLC. the chosen representative for Kristine Meindl Esquire of Goldberg Miller . Rubin P.C. in order to to retrieve the records pertaining to the above named individual. necessary to Please complete the attached Certification of Compliance and forward a complete copy complete a copy of the specified records regarding Willis Payne to my attention as soon as possible. specified records to my as soon as Per HIPAA Regulations please find attached copy of the Certificate Pre-Requisite and a copy Notice of Intent to Serve Subpoena which properly produced to Plaintiff\'s Counsel Intent to Serve a was to along with all other interested parties in this lawsuit. Please let this Certificate Pre-Requisite and Notice of Intent proof that Plaintiffs Counsel and other interested parties Intent serve as were given 20-days to object to the issuance of this subpoena which is mandated by applicable to law. To date objections to the issuance of the attached subpoena have been filed no to therefore pursuant to Rule 4009.22 must produce the documents or things pursuant to you must or required by this subpoena within twenty 20 days after its service. Failure to do twenty to so result in court order compelling to comply. may in a court order you to Pennsylvania House Bill 1048 Act 26 regulates charges imposed by Health Care Providers 21.69 retrieval fee Pages 1-20 at 1.46 / page pages 21 -60 at 1.08 / page 0.36 / pages over 61 at page. 2 2 2016 RECEIVED SEP "
+annotations {
+  NAME: "Willis Payne"
+  DOB: "07/01/1982"
+  ADDRESS {
+    zipCode: "15227"
+    locations: "Pittsburgh"
+    stateAbbr: "PA"
+    addressLine1: "Brentw ood Towne Centre"
+    addressLine2: "101 Towne Square Way, Suite 251"
+  }
+  ADDRESS {
+    zipCode: "19107"
+    locations: "Philadelphia"
+    stateAbbr: "PA"
+    addressLine1: "1 1 1 South 1 1 th Street, Room 1 950 Gibbon Bldg"
+    addressLine2: "Health Information Department"
+  }
+}
+

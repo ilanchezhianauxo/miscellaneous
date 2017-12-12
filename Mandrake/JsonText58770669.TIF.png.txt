@@ -1,0 +1,25 @@
+text: "Oct. 3. 2016 2 56PM FALSAWI BALMER No. 6467 P. 2 fakani Bahtier Peterson Quinn Beyer ATTORNEY AT LAW 1200 Alworth Building 306 West Superior St. Duluth MN 55802-1800 218 723-1990 Fax 218 723-1931 Robert C. FaJsani \' CMi Trial Epec/aUsi James W. Balmar www. falsanibalmer. com ea/uri a t y th NuiOAtl James B. Peterson A 3oam cl Trial Advocacy Sean M Quinn Z CM Trial SpeoiaJUi ca -lilt i by if a Mlnussota Eric W. Beyer S-iieewA Stephanie M. Balr\'nsr3 3 Also corzod in Witeonrin October 3 2016 Paula A. Polaslcy Advocate vu led by -.he Atnertczr Scars at Trial Advocacy Douglas P. Merritt REQUEST FOR RECORDS FOR RECORDS RE SOCIAL SECURITY DISABILITY CLAIM 19S1-1094 Town Square Suite 302 20 North Lake Street Health Essentia Forest Lake MN 55025 651 464-1990 Medical Record Department Reply to 400 East Third Street Street Third East Forest L ake Office Duluth MN 55804 Gunderson Health System Clinic Medical Record Department 1836 South Ave La Crosse WI 54601 Re Our Client/Your Patient Noah Schumacher D/Birth 8/4/97 Our File No. 16-19-184930-S Dear Persons We represent the above-captioned individual in claim for Social Security disability benefits. A represent in a claim Social Security disability benefits. A medical authorization executed in favor is enclosed. our Please forward to us copies of and ail medical records FROM JANUARY 1.2014 TO THE us any ail medical JANUARY 1.2014 TO THE PRESENT These records should include clinician office treatment and chart notes consultation treatment notes . reports operative reports emergency services and urgent care records diagnostic imaging reports hospital records including H Ps and discharge summaries physical therapy notes behavioral health records lab records Reports of Work Ability/restnction lists medical opinion lists medical opinion forms disability paperwork and and all other documentation regarding client in any our client in any PLEASE DO NOT SEND US NURSE S NOTES FROM HOSPITALIZATIONS way. PHARMACY VISITS FROM ESSENTIA HEALTH OR MORE THAN ONE COPY OF ANY GWEN MEDICAL RECORD. Please note that because this is request for medical records for the of Social Security a request purposes a Social Security disability appeal Minn. Stat. 144.292 subd. 6 d states that may not charge fee to provide states you may not charge a to provide copies of these records though you may charge Si 0.00 for retrieval fee . We happy to a are happy to pay such retrieval fee upon receiving invoice. a retrieval upon an invoice. Thank you. Sincerely T\'eMaling-nn- "
+annotations {
+  NAME: "Noah Schumacher"
+  DOB: "8/4/97"
+  ADDRESS {
+    zipCode: "55802-1800"
+    locations: "Duluth"
+    stateAbbr: "MN"
+  }
+  ADDRESS {
+    zipCode: "55804"
+    locations: "Duluth"
+    stateAbbr: "MN"
+    addressLine1: "Medical Record Department"
+    addressLine2: "400 East Third Street"
+  }
+  ADDRESS {
+    zipCode: "55025"
+    locations: "Forest Lake"
+    stateAbbr: "MN"
+    addressLine1: "Town Square, Suite 302"
+    addressLine2: "20 North Lake Street"
+  }
+}
+

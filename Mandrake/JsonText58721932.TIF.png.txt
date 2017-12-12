@@ -1,0 +1,19 @@
+text: "SFM The Work Comp Experts 09/20/2016 Claim # 562066 Provider TIN # 410883623-257 Essential Health West Duluth Clinic 4212 Grand Ave Duluth MN 55807 Employer Power Step Inc Date of Injury 09/16/2016 Employee Kujawa Wayne Date of Birth 07/24/1958 SS # XXX-XX-2163 Dear Essential Health West Duluth Clinic We understand that the above-named patient has received care from your facility. In order for to appropriately evaluate this workers\' order us to workers\' compensation claim it\'s essential obtain medical information we as quickly as possible. Per WI Statute 102.13 we may obtain medical information relative to this injury without the written consent of the to the consent the patient. Please forward all medical records and itemized billings for the above patient and date of injury. Sincerely Lynn Meyer Claims Representative 952 838-4388 Received by SEP 3 0 2016 CiOX HEALTH Ml cc P.O. Box 3416 Minneapolis MN 55440-9416 800 937-1181 Fax 800 944-1169 www.sfmic.com "
+annotations {
+  DOB: "07/24/1958"
+  SSN: "XXX-XX-2163"
+  ADDRESS {
+    zipCode: "55807"
+    locations: "Duluth"
+    stateAbbr: "MN"
+    addressLine1: "Essential Health West"
+    addressLine2: "4212 Grand Ave"
+  }
+  ADDRESS {
+    poBox: "P.O. Box 3416"
+    zipCode: "55440-9416"
+    locations: "Minneapolis"
+    stateAbbr: "MN"
+  }
+}
+

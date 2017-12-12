@@ -1,0 +1,15 @@
+text: "S. ril BlueCross Blue Cross Blue Shield of Wisconsin m Program Employee ral Fed BlueShield P.0 Box 105557 PiWam Federal Employee Atlanta GA 303485557 08/ 9/2016 0 S P 2 S \' \' Au \'ora Baycare Medical Center 2845 Greenbrier Rd Grden Bay WI54311 -0000 # Account Pat. H14487666100 ID Number R60076304 Regarding Muchowski Alissa Date of Birth 08/18/1981 # Chim 16228F049133CA Service Date 8/5/2016 Dear Sir Madam or This is in to the above submitted claim. The information below is needed to response to to complete the processing of the claim. History and physical MD notes notes Indication for the test test It i i critical that the necessary information be returned within 70 days from the date of this letler. We will make decision within 15 calendar days of receipt of the a 15 necessary inf rrmation within 15 calendar days of the end of the 70 day period if the information is or 15 of the 70 day if the information is nol received. At that time we will make a determination based solely on the information that is available. Blue Cross and Blue Shield Federal Employee Program PO Box 105557 Atlanta GA 30348-5557 1 "
+annotations {
+  NAME: "Alissa"
+  DOB: "08/18/1981"
+  ADDRESS {
+    poBox: "PO Box 105557"
+    zipCode: "30348-5557"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+  }
+  DATES_OF_SERVICE {
+    startDate: "8/5/2016"
+  }
+}
+

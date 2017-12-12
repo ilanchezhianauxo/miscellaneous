@@ -1,0 +1,14 @@
+text: "Prijjt Requests Page 9 of 14 Record Request Midwest Record Retrieval RUSH PLEASE FAX P.O. BOX 1027 O CLAIM PENDING V Imperial MO 63052 irA URGENT REQUEST 636 287 1035 Fax 636 296-8485 \'Facility Information \\ Dr. Larry Harris 633 S Battlefield Chesapeake VA 23323 United States 757 233-4700 SEP 2 9 2016 Patient Information Last Name Doughtie First Name Jeffrey Middle Initial E Address 2240 Tennesee Dr City Chesapeake State VA Zip 23323 Country United States Phone 757 439-3564 Claim/Policy Number 6892290 Birth Date 080861 SSN XXX-XX-9110 MR# cso Information Requested All medical records from May 2012 to present. IF YOU ARE A HOSPITAL INPATIENT RECORDS WE WILL ONLY PAY FOR H P FACE SHEETS OP NOTES AND ER RECORDS. DO NOT COPY ANYTHING ELSE. DR OFFICES DATES OF SERVICE AS OUTLINED OV TESTING MED SHEETS ARE A MUST. PLEASE DO NOT STAPLE RECORDS.If records do not exist request choose to cancel we are not responsible for per request or we choose to cancel we are not responsible for any type of processing canceling or base fees. Alternate Fax 636 287-1612 636 287-6068 or 636 287- 8793 Central St Fee Limit 50.00 URGENT OFFICE AnalystiTammy 9/12/201611 40 04 AM "
+annotations {
+  SSN: "XXX-XX-9110"
+  ADDRESS {
+    zipCode: "23323"
+    locations: "Chesapeake"
+    stateAbbr: "VA"
+  }
+  DATES_OF_SERVICE {
+    startDate: "May 2012"
+    endDate: "present"
+  }
+}
+

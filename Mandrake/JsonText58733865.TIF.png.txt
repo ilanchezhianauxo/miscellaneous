@@ -1,0 +1,5 @@
+text: "MOLINA\' HEALTHCARE TI TI URG6HGEN uR September 30 2016 Medical Records Request Attn Essencia Health c/o ELY BLOOMENSON HOSPITAL Member Information Member HECHT DANNY D.O.B. 2/4/1955 ID # 9308022073857 Due Date of Request 10/12/2016 1. Please provide all medical records for services provided for the past 12 months. past Please include the following a Most recent History and Physical H P b Physician progress/visit notes notes c Medication List d All lab and diagnostic testing including imaging and /or radiology reports reports Please fax the requested information to Fax# 562 499-0610 secure . to PLEASE DO NOT MAIL THE MEDICAL RECORDS. Should have questions please you any feel free to contact contact me. Thank You Alma F. Sandoval Grievance and Appeals Supervisor Phone 888 562-5442 ext. 114860 "
+annotations {
+  NAME: "DANNY"
+}
+

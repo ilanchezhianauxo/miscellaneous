@@ -1,0 +1,12 @@
+text: "r Nor-l-7 9/21/2016 1 06 42 PM PAGE 2/003 Fax Server Mb uJC TRAVELERS J Travelers Prop Cas Co Of Americ P 0. Box 3205 Naperville IL 60566-7205 09/21/2016 Reedsburg Area Medical Center 2000 N Dewey Ave Reedsburg Wl53959 Employer Lands End Employee Luke A. Celmer Number Claim E8K1598 Injury of Date 08/04/2016 ATTN Reedsburg Area Medical Center I am writing to obtain additional information for the workers compensation claim for your patient Luke A. Celmer whose date of birth is 10/07/1982. Please provide us with the information indicated below \' 1 Please fax 9/14/16 dictated office visit note. Please fax the requested information to 877 786-5567 and reference the claim number 028-CB-E8K1598-N on the front page of the fax. If you have any questions please contact me at the telephone number or email address listed below. Thank you. C23213WSCW "
+annotations {
+  NAME: "Luke A."
+  ADDRESS {
+    zipCode: "60566-7205"
+    locations: "Naperville"
+    stateAbbr: "IL"
+    addressLine1: "Travelers Prop Cas Co Of Americ"
+    addressLine2: "P,0. Box 3205"
+  }
+}
+

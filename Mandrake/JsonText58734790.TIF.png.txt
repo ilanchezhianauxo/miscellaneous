@@ -1,0 +1,12 @@
+text: "DISABILITY DETERMINA TION SER VICES P.O.Box 149198 Austin Texas 78714-9198 September 28 2016 PATIENT VELT B BROWN WOODLAND HEIGHTS MEDICAL CTR SSN 467-06-3027 505 S JOHN REDDITT DR DOB 12/07/57 LUFKIN TX 75904-3120 CLAIM # CRLKB6 CLINIC # Attention Medical Records The above named individual is being evaluated for Social Security Disability benefits. We are requesting a narrative report and/or copies of your records. IF YOU HAVE RECEIVED A RECENT REQUEST WE ARE REQUESTING ADDITIONAL INFORMATION TO UPDATE OUR FILES. Texas Health and Safety Code Section 161.203 Subchapter M Requires that these records be provided within 30 days of receipt of this request. Invoice Information Please confirm your name address tax ID# and phone number. Make Corrections below. IOD INCORPORATED Amt. Billed 18.00 Invoice Number RQID 0314613089CRLKB6 SITE S49 DR S Indicate no records found SSN. DOCTYPE 0001 RF D CS f827 Records received after 30 days from the above date will not be paid. -FOR AGENCY USE ONLY- DDS Vndr C00316 Tax ID# 16507652879016 Req. # FA732165 -01 PH 425 462-7771 THREE WAYS TO RETURN YOUR INFORMATION Return all records with barcode page on top 1 Fax your records to 1-866-892-9281. Please indicate the number of pages your records to Please indicate the number of pages 2 Upload records via SSA\'s secure Electronic Record Express website if you are not registered contact Texas DDS Medical Relations at 1-800-252-9627 ext. 5151 for additional information 3 Mail your records to SSA S49 TX DDS AUSTIN PO BOX 8908 LONDON KY 40742- 9997 If returning more than one record you must put the appropriate barcode prior to submission. page on top of each person\'s records to Shannon Spitzer 25/E45 TEL 1-800-252-9627 EXT. 8298 PAGE 1 OF 3 M MER 06/11 SSP f\\i in o "
+annotations {
+  DOB: "12/07/57"
+  SSN: "467-06-3027"
+  ADDRESS {
+    poBox: "PO BOX 8908"
+    zipCode: "40742"
+    locations: "LONDON"
+    stateAbbr: "KY"
+  }
+}
+

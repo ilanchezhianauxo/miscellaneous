@@ -1,0 +1,14 @@
+text: "Fax Server 9/30/2016 3 35 36 PM PAGE 2/009 Fax Server Received J TR1EU JOHNNY OCT\'O 3 2016 T-SCAN CORPORATION EMAIL JOHNNY.TRlEU@TSCAN.BlZ VSCAMi 23RD AVENUE WEST PHONE 206 285-6322 X207 4200 SEATTLE. WA 98199-1283 FAX 206 357-0066 a ft y ci it 7 o n SOD ncofpwa d j 09/30/2016 Attn Medical Records Sharon - Capital Medical Center Including but not limited to Donald R Klein MD - not to R MD 3900 Capital Mall Drive SW Olympia WA 98502-8654 PLEASE COMPLETE AS SOON AS PQSSI IJt. PLEASE NOTE Our Client Request Dale ASAP attorney-client needs these records AS SOON AS POSSIBLE. Your help Dear Records Custodian in exp editing this request is greatly appreciated. We apologize for any individual below-named the for records obtain to requested been has Corporation T-Scan inconvenience this may causc.Please fax any correspondence to my direct fax 206-357-0066 Thank you very Lopez-Hernandez Apolinar of Records for Request . of Apolinar Lopez-Hernandez much Date of Birth 01/08/1965 7 SSN 601-70-2211 Record Types Medical Records Date Range Any and All Dates Enclosed please find of records form. This from must be filled out and returned either with the. records or to indicate Dial 1. A CERTIFICATION records form. This from must be out with or to indicate Dial you hove no records on the above-named individual. 2. A signed HIPAA compliant authorization. invoice to T-Scan. 3. A resale certificate. Baling TSean does not pay sales tax on records so it cannot be included on your to T-Scan. This form accounts for the sales tax in your records. If here will be a charge for your services please include an itemized bill with the records. Please send 1 Copy of the Medical Records to the address above. If these records are maintained at different locations and require separate requests please forward this request to obtain records as soon as possible from all locations. Please notify T-Scan of any radiographic films included in the records as more than one copy of may be required. For anv invoice amount over 150.00 please fax F 2o6 357-0066 e-mail Johnny.Trieu@tscan.biz or call P 2o6 . 285-6322 X207 T-Scan with the full amount and page count before sending records. Thank you for your prompt attention to this request. Should you have question or concerns in this regard please do not hesitate to contact our office directly at 206 285-6322 X207. V Johnny Trieu Specialist Enclosures Copied by I0D Incorporated floSjssI ISIG lOTH FPAuth N/N 1 2 3 4 5 6 Address Verified Payer CL No Charge Cart Bills R0I Prob Form CL Invoice 3 L Date EmplD# "
+annotations {
+  NAME: "Dale ASAP"
+  DOB: "01/08/1965"
+  SSN: "601-70-2211"
+  ADDRESS {
+    zipCode: "98502-8654"
+    locations: "Olympia"
+    stateAbbr: "WA"
+    addressLine1: "Capital Medical Center - Including but not limited to Donald R Klein MD"
+    addressLine2: "3900 Capital Mall Drive SW"
+  }
+}
+

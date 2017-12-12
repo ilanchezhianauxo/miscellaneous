@@ -1,0 +1,16 @@
+text: "TO. 19209963284 FROM Neoni.Khachatoorian0Cigna.coi DATE 2016/09/07 12 49 12 NEOMIEHACHATOOUAN CIGNA Gruf Inwwmct POBax 29063 Glendale CA 91209 Phone 818-SOO-6789 Fax 866-517-9873 CIGNA Group Insurance KSISWI Life Accident Disability KSISWI - .com 2016 0 7 SEP DR. CORREA BY August 25 2016 Name LENILLE CHURCH Incident Number 3865350 Plan/Policy Number FLK0960537 Plan/Policy Holder DUCOMMUN INCORPORATED Underwriting Company Life Insurance Company of North America DEAR DR. CORREA We are reviewing the Long Term Disability LTD claim for patient LENILLE CHURCH. Your patient s date of your LENILLE CHURCH. Your patient s date of birth is April 6 1948. In order to review your patient s eligibility for LTD benefits will need the following we need the Complete copies of office visit notes from July 1 2016 to present - Hospital Intake/Discharge summary and/or Operative Reports - summary Test results/findings for example MRI s EKG s x-ray s etc - Treatment plan including meds frequency of treatment referrals Physical Therapy etc. - Enclosed Medical Request Form to be completed by Dr.Correa attached - Enclosed is authorization to release this information to Please be advised that off work note is not sufficient an to to us. Please be advised that an off work note is not sufficient documentation to certify disability. In order to help expedite the handling of patient s claim please fox this information to 866-517-9873. If to your to 866-517-9873. If necessary also mail foe requested information to the above address. you may to the above address. If there is a fee for foe medical records requested please forward bill including Tax ID number with the return of a including your Tax ID number with the return of the requested records. CK3NA Group Inwnnca I a ngltterad aarvlca mar of CIGNA inWladual Property Inc. I leancad for ua# by Incur nca company wbaMIda of CIGNA Corpora ton. Inducing Ufa Inauranca Company of North Amdrieo COMA Ufa Inauranca Company of New York and wal LIN Inauranco Company. Product and tardea tra provWcd by Vm nauranea company ub MI ri and not by CIGNA Cwpcrattcm. REF H 4660970A001 PAGE 3 OF 6 "
+annotations {
+  DOB: "April 6, 1948"
+  ADDRESS {
+    zipCode: "91209"
+    locations: "Glendale"
+    stateAbbr: "CA"
+    addressLine1: "CIGNA Gruf Inwwmct"
+    addressLine2: "POBax 29063"
+  }
+  DATES_OF_SERVICE {
+    startDate: "July 1, 2016"
+    endDate: "present"
+  }
+}
+

@@ -1,0 +1,12 @@
+text: "Nor-6 9/30/2016 4 28 29 PM PAGE 2/002 Fax Server TRAVELERSJ Travelers Indemnity Co Of Amer P.O. Box 2928 Overland Park KS 66201-1328 09/30/2016 St Cloud Medical Group 1301 33rd St S Saint Cloud MN 56301 Employer Aldi Incorporated Employee Amanda Staneart Claim Number E6S1544 Date of Injury 09/15/2016 Attn St Cloud Medical Group I am writing to obtain additional information for the workers compensation claim for your patient Amanda Staneart whose date of birth is 05/19/1990. Please provide us with the information indicated below OTHER Last appointment date was the last appointment on 9/28/2016 and next appointment date Please fax the requested information to 877 389-4682 and reference the claim number 095-CB-E6S1544-E on the front page of the fax. If you have any questions please contact me at the telephone number or email address listed below. Thank you. Sincerely GABRIEL KOSA Claim Professional Direct 651 310-3205 Office 800 842-3073 Ext. 000-0000 Fax 877 389-4682 Email GKOSA@travelers.com received OC I o a 2016 Ts C23213WSCW 09/30/2016 3 29PM GMT-05 -00 "
+annotations {
+  NAME: "Amanda Staneart"
+  ADDRESS {
+    poBox: "P.O. Box 2928"
+    zipCode: "66201-1328"
+    locations: "Overland Park"
+    stateAbbr: "KS"
+    addressLine2: "Travelers Indemnity Co Of Amer"
+  }
+}
+

@@ -1,0 +1,12 @@
+text: " 14047785028 To 333-2598 763 Fax Racklay Tabilha From 14047785028 Fax Paga 2 of 4 09/28/2016 4 55 PM PLEASE RETURN THIS PAGE FOR TRACKING PAYMENT American Retrieval Document Retrieval Services 09/28/2016 Record Request# 163566 Work Order# 576988 Fax# 404-778-5028 Records Medical Attention IMPORTANT PLEASE RESPOND Office Central Clinic Emory ON OR BEFORE 10/12/2016 - 1550 Litton Drive Stone Mountain GA 30083 v. s 0/ OJC RE Hunter Dwayne M DOB 12/18/1964 SSN XXX-XX-2288 Attention Medical Records Enclosed is a document for the release of information for Dwayne Hunter. We would appreciate if you would forward a copy of the following Medical Records Any and All in your possession. - your Specifically Records for Dr. Thomas L. Bradbury We would appreciate that these records be forwarded to American Retrieval before 10/12/2016. If you feel you are unable to meet this time frame please call the undersigned. We also understand that there may be a fee for processing this request. If so please include an invoice and a copy of this letter witli the records and will promptly submit payment. If of this cover letter witli the records and we will promptly submit payment. If your company requires prepayment please call immediately so that we may expedite this process. Also we would appreciate a call if you anticipate the charges to be greater than 200.00 so we may have the option to request less or get we may have the option to request less or get client approval. Thank you for your anticipated cooperation. your anticipated cooperation. Sincerely Tabitha Rackley traekley a americanret rieval.com If any questions or problems develop call.. ..763-762-8266 or 888-972-9901 Records may also be faxed to. ...763-233-7301 or 888-972-9902 Please be advised we will only pay according to the states statute for copies of records Thank you. American Retrieval Company 2905 Northwest Blvd. Suite 228 Plymouth MN 55441 763-233-7300 09/28/2016 4 59PM GMT-05 00 "
+annotations {
+  NAME: "Hunter Dwayne"
+  DOB: "12/18/1964"
+  SSN: "XXX-XX-2288"
+  ADDRESS {
+    zipCode: "55441"
+    locations: "Plymouth"
+    stateAbbr: "MN"
+  }
+}
+

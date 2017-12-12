@@ -1,0 +1,16 @@
+text: " I Department of 2 Disability Determinations Service Children n Economic Stability 0 800.256.2266 John Bel Edwards Governor family Services Division of Programs F 1-855-209-3346 of Programs F 1-855-209-3346 Markets Gamer Walters Secretar P. 0. BOX 4446 www.dcfe.la.gov / Louisiana Stronger a Building SHREVEPORT U 71134-0446 Sept m p23 2016 as r-o o cn CHARLES R BOWIE MD Claimant KAMALI PROCHAZKA MEDICAL RECORDS/IOD NEUROMEDICAL CENTER CASE # 1058362 10101 PARK ROWE AVE DOB 06/16/1985 XREF BATON ROUGE LA 70810 Patient # Request for Evidence Fax Coversheet/Invoice - e are the office that makes disability determinations for Social Security. KAMALI PROCHAZKA is applying for or is receiving disability benefits due to the following conditions fibromyalgia narcolepsy anxiety lunbar stenosis high cholesterol and attention deficit disorder.Please provide complete medical history on all conditions not limited to those listed above. Please send the information requested below covering the period of 05/2011 to PRESENT to help us evaluate this claim. Evidence requested from your patient\'s chart includes Rifltocy and Physicals Admit and D/C Summaries Office/Clinic Notes Psych Evals Operative Notes Cardiovascular Studies w/tracings Therapy evaluations/notes SITE S76 DR S Diagnostic Imaging Reports RQID LLA000AAFRT00 SSN XXXXXXXXX OOCTYPE 0001 RF D CS 7c9e special instructions IMPORTANT RETURN THIS FAX COVERSHEET/INVOICE AS FIRST PAGE OF YOUR RESPONSE. Oj Wo aro authorized to pay 20.00 for information received within 30 days of this request. We will no longer research and reissue payment on invoices that are over 180 days from the date of request for records. o This information be faxed toll free to fax gateway at 1-855-209-3346 and will can be faxed toll free to our fax gateway at 1-855-209-3346 and will o help us provide a quicker decision. Should h .ve questions please contact M. you h .ve any questions please contact M. DUMARS at 318-869-6500 or 1-800-256-2266. o PLEASE INDICATE IF O\' Chart not available through date i Requested Date for Evidence No No Patient Found Check here if you do not wish to be paid QDD-N CAL N DMA Cass Y Continued on next page... shmld/20MER/0046047 Auth# 20160923330022 Invoice No. LS2500 SC Address "
+annotations {
+  DOB: "06/16/1985"
+  ADDRESS {
+    zipCode: "70810"
+    locations: "BATON ROUGE"
+    stateAbbr: "LA"
+    addressLine1: "NEUROMEDICAL CENTER"
+    addressLine2: "10101 PARK ROWE AVE"
+  }
+  DATES_OF_SERVICE {
+    startDate: "05/2011"
+    endDate: "PRESENT"
+  }
+}
+

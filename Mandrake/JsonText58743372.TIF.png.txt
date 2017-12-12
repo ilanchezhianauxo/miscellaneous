@@ -1,0 +1,26 @@
+text: "w Q UnitedHealthcare Insurance Company f UnitedHealthcare UniteclHealthcai e P.O. Box 7408053 Atlanta GA 30374-0805 2016 19 September Claim Information Patient Brittany Walters Patient Acct# 012600061411 Date of Service 09/08/2016 Provider 264CETPUA1001005-00970-01 Clint M Cormier M.D. ID Claim MD CORMIER M CLINT 922851585/SC/295663 # Claim 6139594776 2508 BERT KOUNS IND LOOP STE 2 SHREVEPORT LA 71118-3175 Member Fletcher Christian MemberlD 922851585 Group ARKLATEX ENERGY SERVICES LLC Group# GA907745/A B/002 Dear Clint M. Cormier M.D. ID Letter PFA002 We received the above claim for Brittany Walters. Before we can process the claim we need more information. Our claim processing system has noted this claim may have incorrect billing and/or inappropriate use of modifiers coding diagnosis units or place of service. If this claim corresponds to multiple dates of service please include only the treatment records for the dates of service on the claim. jj3 fpi rovide the following informat letter A copy of this The patient\'s treatment records including but not limited to copies of treatment to History and physical - Presenting symptoms and complaints - Findings on examination - Lab test results - X-rays - Consultation reports - Daily progress notes - Medication records relative to the treatment - Durable medical equipment records that include copies of the physician orders that list the - referring physician s name the invoice and the delivery statement showing the date of receipt Any other information that\'s not listed but part of the patient\'s treatment records - Please do not send a new claim or request for reconsideration if necessary please provide an interpretation of these records in English. letter and records Please mail this and the treatment records to UnitedHealthcare P.O. Box 740805 Atlanta GA 30374-0805 Keep a copy for your records. Your claim is on hold until we receive this information from you. When we receive the information we will review and process your claim as applicable federal or state law requires. Please respond within 45 days or within the time frame specified in your participation agreement or your claim may be denied. If you have questions about this letter please call 1-866-230-5783. Sincerely UnitedHealthcare "
+annotations {
+  NAME: "Brittany Walters"
+  ADDRESS {
+    zipCode: "30374-0805"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+  }
+  ADDRESS {
+    zipCode: "71118-3175"
+    locations: "SHREVEPORT"
+    stateAbbr: "LA"
+    addressLine1: "CLINT M CORMIER MD"
+    addressLine2: "2508 BERT KOUNS IND LOOP STE 2"
+  }
+  ADDRESS {
+    poBox: "P.O. Box 740805"
+    zipCode: "30374-0805"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+  }
+  DATES_OF_SERVICE {
+    startDate: "09/08/2016"
+  }
+}
+

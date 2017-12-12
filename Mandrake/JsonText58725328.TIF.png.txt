@@ -1,0 +1,29 @@
+text: "FROM THU SEP 23 2013 T 16/ST. 7 i6/No T63881Z947 P To Frocis DOHA Support 9-28-16 4r40pn 1 of 4 p 1 of 4 Department of Veterans Affairs V Private Medical Records Retrieval Center P.O. Box 6890 Virginia Beach VA 23450 \' P.O. Box 6890 Virginia Beach VA 23450 j Voice 877-235-0726 Fax 844-632-6093 PMRIDJ324183 DICAL 9 SEP 2 RECORDS REQUEST REQUEST FOR Evans Jr Ruppert L 4/15/1950 Patient Name L DOB Attention Medical Records PHP/Hosplla / Doctor Name Dr. Deepak N Deshukh # of Pages including Cover 4 Pages 757-224-2198 Fax# From Veterans Benefits Administration Originally faxed on 9/28/2016 3rd Fax Request 2nd Fax Request The above Patient has applied to the Department of Veterans Affairs VA for disability benefits. In support of this application the Patient has Identified that you will be able to provide medical evidence. We are submitting VA Form 21-4142 or other signed medical record request form Authorization and Consent to Release Information to the Department of Veterans Affairs signed by the Patient to authorize release of his/her medical records. More information on the VA Form 21-4142 can be found at httoV/www.benefits. va.aav/oriveteDroviders/indQX.asp Instructions 1. Select ONE choice below ALL AVAILABLE RECORDS ARE ATTACHED Medical Records are attached. NO RECORDS FOUND A complete and thorough search of our records failed to fdentgy any treatment records on This Patient. RECORDS DESTROYED Our records Indicate the Patient may hav been treated but any records regarding that treatment ware destroyed. D OTHER Explanallon Pleas Provide an Explanallon 2 Send this Fax Cover sheet the attached medical record request form and all appropriate medical records using ONE of the following methods a. Up toad recommended the documents electronically through our secure site pmro p7zVh httos //pmr.domaonf/ne.com passcode b. Secure Fax- 844 632-5093 8890 Virginia Beach. VA 23450 c. Mall - Private Medical Records Retrieval Center. P 0. Box Virginia Beach. VA f The Department of Veterans Affairs VA Veterans Benefits Administration VBA has contracted with DOMA Technologies LLC to retrieve copies of veterans medical records from private health care providers. In accordance with Code of Federal Regulations CFR 3.153/c VA will not pay any fees charged by a custodian to provide records requested\' This fax Is intended only for the use of the person or office to which it Is addressed and may contain Information that Is privileged or exempt from disclosure and that any dissemination distribution or copying of this communication for purposes not directly related to retrieving these records is prohibited. If you have received this fax in error please notify this office immediately at the telephone number listed above. 09/29/2016 8 19AM GMT-04 00 "
+annotations {
+  NAME: "may"
+  ADDRESS {
+    zipCode: "23450"
+    locations: "Virginia Beach"
+    stateAbbr: "VA"
+  }
+  ADDRESS {
+    zipCode: "23450"
+    locations: "Virginia Beach"
+    stateAbbr: "VA"
+  }
+  ADDRESS {
+    poBox: "P.O. Box 6890"
+    zipCode: "23450"
+    locations: "Virginia Beach"
+    stateAbbr: "VA"
+    addressLine2: "Private Medical Records Retrieval Center"
+  }
+  ADDRESS {
+    poBox: "P.O. Box 6890"
+    zipCode: "23450"
+    locations: "Virginia Beach"
+    stateAbbr: "VA"
+    addressLine2: "Private Medical Records Retrieval Center"
+  }
+}
+

@@ -1,0 +1,15 @@
+text: "\\mxmmQ as X AT \\ CORPORATION 30 East 33rd Street 2nd Floor New York NY 10016 Telephone 212 545-1955 Fax 212 545-1940 UPDATED X-RAY/MRI/CAT SCAN/FILMS/CD\'S REQUEST September 8th 2016 f Att Radiology Department Bronx Municipal Hospital Center Pelham Parkway Eastchester Road 1400 Pelham Parkway South Room 1NE3J / Bronx NY 104 61 Dear Sir or Madam Re 1595038 Please be advised that we have been requested by McAloon Friedman P.C. attorneys for the defense to obtain the FULL UPDATED attorneys for to FULL UPDATED X-RAY/MRI/CAT SCAN/FILMS/CD\'S of the patient listed below. ALL MEDICAL patient below. ALL MEDICAL RECORDS SHOULD TO BE ACCOMPANIED WITH A CERTIFICATION OF AUTHENTICITY. Towards this please find enclosed a patient authorization duly notarized original in medical records department and set forth below is the applicable patient data data Patient\'s last name WOODS Patient\'s first MELANIE name MELANIE Sex F SS# XXX-XX-2922 Date of Birth 12/09/1973 Patient status Emergency. In-Patient And Out-Patient Date s of treatment 10/4/14 to date Please include the following A11 CT Scans MRI\'s X-Rays And Films Taken And Reports Please Note SPECIFIC DATES Requested It would be greatly appreciated if you would advise me by telephone if possible of the fee for the above at which time I shall immediately forward our check to you. Please note all record fees exceeding 400.00 need pre-approval. Thanking you in advance for your prompt attention to this request. Very truly yours Re 1595038 FOJP Jacquelyn Roberson Ext. 7638 Any inquiry concerning this request should be directed to the undersigned at Record Access at 212 545-1955. at 545-1955. V2 By 0 Akiije tQ cr r T "
+annotations {
+  NAME: "WOODS"
+  DOB: "12/09/1973"
+  SSN: "XXX-XX-2922"
+  ADDRESS {
+    zipCode: "10016"
+    locations: "New York"
+    stateAbbr: "NY"
+  }
+  DATES_OF_SERVICE {
+    startDate: "10/4/14"
+  }
+}
+

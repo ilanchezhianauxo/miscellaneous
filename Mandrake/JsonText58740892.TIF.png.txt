@@ -1,0 +1,16 @@
+text: "I FF240-IP 01/03 09/29/2011 DAN eP 7 \'Ao 73 PARTNERS i 0 i INJURY ATTORNEYS V\'p Thursday September 29 2016 1 VIA FACSIMILE 321 843-6552 16-006959 Dr. Phillips Hospital- Patient Accounting- Legal Dept. 9400 Turkey Lake Road Orlando FL 32819 / RE IN Our Client Delores Kyles DOB November 25 1962 Date of Accident May 7 2016 To Whpm It May Concern Our office has been retained to represent the above named individual in a claim for to represent a injuries and damages arising out of an incident which occurred on the above date. In accordance with the enclosed Medical Authorization form we would appreciate being we furnished with the requested items at your earliest convenience. Should there be a charge for these documents we ask that you please enclose an invoice with the requested records and we will remit payment receipt. Please be sure your invoice contains your Tax upon sure your your Tax nunjiber ID for accounting purposes. j In ourj continuing efforts to be environmentally conscious we request that you make listed all efforts to transmit these records electronically via my email address below 1 or fax at 407 203-6570. 1 If you have any questions or wish to discuss this matter more fully please contact me at 407 203-6570 Joe.Polich@newlinlaw.conL or Sincerely i i Joe Polich Esq. j Jp/hd j H 5 "
+annotations {
+  NAME: "Delores Kyles"
+  DOB: "November 25, 1962"
+  ADDRESS {
+    zipCode: "32819"
+    locations: "Orlando"
+    stateAbbr: "FL"
+    addressLine1: "Dr. Phillips Hospital- Patient Accounting- Legal Dept."
+    addressLine2: "9400 Turkey Lake Road"
+  }
+  DATES_OF_SERVICE {
+    startDate: "May 7, 2016"
+  }
+}
+

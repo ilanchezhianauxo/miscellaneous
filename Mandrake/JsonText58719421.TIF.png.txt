@@ -1,0 +1,12 @@
+text: "LMG 9/23/2016 10 54 42 AM PAGE 1/004 Fax Server Liberty life Assurance Company of Boston of Boston Group Benefits Disability Claims Liberty P.O. Box 7206 London KY 40742-7206 Mutual 800 210-0268 Secire Fax No. 60S 334-3567 INSURANCE DA te September 23 2016 To BAYCARE MEDICAL CENTER PHYSICAL THERAP - 2845 GREENBRIER RD #2 GREEN B AY WI 54311 Attn Medical Records Fail 920 288-3073 From Michele Harding Dis Claims Sr Ltd Case Mgr I Phone No. 800 210-0268 Secure Fax No. 603 334-3567 Tot l Pages Including Cover 4 RE # Clai 5616227 m Clai mant Mark Jankowski Barr -Wehmiller Companies Inc This f X l and any attachments thereto i intended only for the use of the addressees named herein and may contain legally privileged and/or confidential information. If you are not the intended recipient of this fax you are hereby notified that any diseeminktion dis tribunal or copying of thin fax and any attachments thereto ia strictly prohibited If you have received this fax in ia strictly If you have received this fax in error please notify me by telephone at 800 210-0268 and permanently shred the anginal and any copy of any fax and any printout thereof. "
+annotations {
+  ADDRESS {
+    poBox: "P.O. Box 7206"
+    zipCode: "40742-7206"
+    locations: "London"
+    stateAbbr: "KY"
+    addressLine1: "Liberty life Assurance Company of Boston"
+    addressLine2: "Group Benefits Disability Claims"
+  }
+}
+

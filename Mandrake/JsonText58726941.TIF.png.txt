@@ -1,0 +1,17 @@
+text: "My ter Disability P.O. Bo l 127 LehL UT 84043 Phone 801 766-5442 Fax 801 766 5482 September 16 2016 Hospital Emory RECEIVED Hospital Emory SEP 21 20 550 Peachtree NE Atlanta GA 30308 RE Marty Mad ias SSN XXX-XX-2203 DOB 06323/1063 Medical Records Please be advised th representing the above named claimant in claim for Social we are representing a Security and/or Disability Benefits. Enclosed is signed medical authorization. The signature and/or Disability a authorization. The signature on the medical authorization is the claimant\'s original signature and is not electronic signature. authorization is the and not an electronic signature. According to HIPAa guidelines these records should be provided to us at no cost. to us at no cost. This letter is a request that provide with copies of medical records and chart notes you us notes concerning of this patient. The following dates of service requested your can are Dates of Service 07/01/2013 - Present Records Needed By 10/07/2016 Thank you for your consideration and assistance. Please call office if there are any pioblems our are any or questions with this request. Sincerely Kathy Robinson Case Manager MI #111 2 m "
+annotations {
+  NAME: "Marty Mad"
+  SSN: "XXX-XX-2203"
+  ADDRESS {
+    zipCode: "30308"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+    addressLine1: "Emory Hospital"
+    addressLine2: "550 Peachtree NE"
+  }
+  DATES_OF_SERVICE {
+    startDate: "07/01/2013"
+    endDate: "Present"
+  }
+}
+

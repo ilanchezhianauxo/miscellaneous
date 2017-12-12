@@ -1,0 +1,44 @@
+text: "Anth m lue Cross and Blue Shield 1 o r fcCard D pt. - Mail Stop Oil 0903 - A719 rrs/ui 00071 P.O. Box 105557 Atlanta GA 30348 Anthem RECEIVED SEP 28 m sx x x ALL FOR AAK 5H1 o 38331 1 AB 0 3 1 132 ATrENTION BLUECARD MEDICAL RECORDS IT AURORA BAYCARE MEDICAL CENTER PO BOX 8920 GREEN BAY WI 54308-8920 2 We are ret luesting additional information to continue processing a claim. Please provide the requested information within 10 msiness days of receiving this request. Date of Request August 26 2016 2nd Request Patient N ime KIM SLYE Patient Sex M Patient Dkte of Birth 05/27/1956 Date of Service 07/05/2016 t Subscriber ID DBJAN4795701 3 Account Number H14402592900 a . Total Charges 14 137.34 a Claim Number 16200BV5580 SCCF 45820162011771200 Note Or ly attach records/correspondence for the Patient noted on the first Page. to Please provide the following information m s Type Description Date Range if applicable Letter/Form of Medical Necessity Please provide the letter/form of medical necessity. History a id Physical Please provide history and physical. Medical Record Complete Please provide complete medical records. 7/5/2016 - 7/5/2016 Laboratory Report Please provide laboratory report. We are reviewing procedure code 81235. If you ha ve already submitted this information please disregard this request Please return this letter and the requested information either by fox or mail to Anthem Blue Cross and Blue Shield ITS/BlueCard Dept. - Mail Stop OH 0903 - A719 P.O. Box 105557 Atlanta GA 30348 Fax 1-888-859-3046 905c6651a41e7al9cea4dc2526acc005 Anthem Blue Crus and Blue Shield is the trade name of In Indiana Anthem Insurance Companies Inc. In Kentucky Anthem Health Plans of Kentucky Inc In Missouri excluding 30 coin ities in the Kansas City area RightCHOlCE Managed Care Inc. R1T Healthy Alliance Life Insurance Company HALIC and I1MO Mi ri. and I1MO Mi ri. Inc. RIT and certa n affiliates administer non-UMObenefits underwritten by HALIC and HMO benefits underwritten by HMO Missouri Inc. Rif and certain affiliates only provide administrs live services for sell-funded plans and do not underwrite benefits. In Ohio Community Insurance Company. In Wisconsin Blue Cross Blue Shield of Wisconsin BCBS Wi which underwrites administers the PPO and indemnity policies Compcarc Health Services Insurance Corporation Compcare which underwrites which underwrites or administers the PPO and indemnity policies Compcarc Health Services Insurance Corporation Compcare which underwrites or adninislers tlie HMO policies and Compcare and BCBSWi collectively which underwrite ot administer the POS policies. Independent licensees of the Blue Cross and blue Shield Assoc ation. ANTHEM is a registered trademark of Anthem Insurance Companies Inc. \'Hie Blue Cross and Blue Shield and symbols the registered and Blue Shield names and symbols are the registered -1 di... In. I Ul..o ol -i a "
+annotations {
+  NAME: "KIM SLYE"
+  ADDRESS {
+    poBox: "P.O. Box 105557"
+    zipCode: "30348"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+    addressLine1: "Anthem Blue Cross and Blue Shield"
+    addressLine2: "ITS/BlueCard Dept. - Mail Stop"
+  }
+  ADDRESS {
+    zipCode: "30348"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+  }
+  ADDRESS {
+    zipCode: "54308-8920"
+    locations: "GREEN BAY"
+    stateAbbr: "WI"
+    addressLine1: "AURORA BAYCARE MEDICAL CENTER"
+    addressLine2: "PO BOX 8920"
+  }
+  ADDRESS {
+    poBox: "PO BOX 8920"
+    zipCode: "54308-8920"
+    locations: "GREEN BAY"
+    stateAbbr: "WI"
+    addressLine1: "ATrENTION:"
+    addressLine2: "AURORA BAYCARE MEDICAL CENTER"
+  }
+  ADDRESS {
+    poBox: "P.O. Box 105557"
+    zipCode: "30348"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+    addressLine1: "Anthem Blue Cross and Blue Shield"
+    addressLine2: "ITS/BlueCard Dept. - Mail Stop"
+  }
+  DATES_OF_SERVICE {
+    startDate: "07/05/2016"
+  }
+}
+

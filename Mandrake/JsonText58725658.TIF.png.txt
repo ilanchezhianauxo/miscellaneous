@@ -1,0 +1,23 @@
+text: "Ina Ce.rvi.eoo Roooatoh Managoinont Roohan S aheob i m a.at o/ae/aois Dajo 3 of E - Managoinont Date September 20 2016 3 06 pm / Order# 1567258 ATTN MEDICAL RECORDS EMORY CLINIC MICHAEL MCCONNELL ALL DOCTORS 1365 CLIFTON RD STE A ATLANTA GA 30322 URGENT Requeab for Pending Insurance Enclosed please find an AUTHORIZATION to obtain and release medical information signed by your patient listed below. Please send PHOTOCOPIES or a summary of these records to the address or FAX number listed below. Please call the number below If records not available. are not Complete Health History Lab and Test Results Of f ice Jotes 2013 to present \' 0/ r-Ojr 9 utfi PATIENT S NAME JANICE CHAW BIRTH OF DATE 10/12/1975 SOCIAL SECURITY# Please send an invoice for prepayment or bill us when you return records and a payment in the amount you indicate up to a maximum of 200.00 will be returned to you promptly. PLEASE CONTACT US PRIOR TO PROCESSING THE REQUEST IF THE FEE EXCEEDS THIS AMOUNT. AND/OR IF PREPAYMENT IS REQUIRED. Additionally credit card payments can be made by calling our office directly. Please include your Federal Tax ID with invoice. your invoice. FAX TO 262-432-7620 Telephone 800-726-3643 MAIL TO Management Research Services P.O. Box 2596 Brookfield WI 53008-2596 PLEASE RETURN THIS LETTER WITH THE MEDICAL RECORDS 09/28/2016 3 48PM GMT-05 00 "
+annotations {
+  NAME: "JANICE CHAW"
+  DOB: "10/12/1975"
+  ADDRESS {
+    zipCode: "30322"
+    locations: "A ATLANTA"
+    stateAbbr: "GA"
+  }
+  ADDRESS {
+    poBox: "P.O. Box 2596"
+    zipCode: "53008-2596"
+    locations: "Brookfield"
+    stateAbbr: "WI"
+  }
+  REQUESTOR_ADDRESS {
+    poBox: "P.O. Box 2596"
+    zipCode: "53008-2596"
+    locations: "Brookfield"
+    stateAbbr: "WI"
+  }
+}
+

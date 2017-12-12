@@ -1,0 +1,9 @@
+text: "10-03- 18 1 0 05 FR0M- T-370 P0002/0005 F-456 Binder Binder The National social secumiy dbakltiy Advo cates llc 300 Rasro Drive East Suite 6699 HAWMUOe NeWYORK 11788 -O\'er 39t rt eni ocr 631 361-6699 3- 2016 FJW 631 361-6475 October 3 2016 Putnam Hospital Center 670 Stoneleigh Avenue Carmel NY 10512 Re Marianne Diane Bakmezian S. S. No. XXX-XX-4341 . Ladies/Gentlemen The above-noted individual is represented by this firm in claim for Social Security benefits. by firm in a claim It is very important for client\'s to have much medical evidence possible. To that my client\'s case to have as much as end please prepare and/or send copies of the following prepare of the MEDICAL RECORDS DATED 01/01/2016 - Present We do not need the nurses notes graphics temperature charts. not need the nurses notes graphics or temperature The Social Security Act forbids medical liens Our client is responsible for the medical liens on any recovery. responsible the costs of all medical reports/records. If there is a charge for this information please forward a bill to our office so we can have our client provide payment. We will not be responsible for any costs you incur prior to our client\'s approval and payment. If have questions please contact assistant Danielle Allan-Shiansky at you have any please contact my assistant Danielle at 800 362-6699. America s National Disability Advocacy Company SM "
+annotations {
+  NAME: "Marianne Diane"
+  DATES_OF_SERVICE {
+    startDate: "01/01/2016"
+    endDate: "Present"
+  }
+}
+

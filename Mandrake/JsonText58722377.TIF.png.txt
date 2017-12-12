@@ -1,0 +1,17 @@
+text: "-9205933114 1 Fax Records Medical To From. Jacksonville Telepro Team Date 09/30/16 11 21 ART Page 2 of 6 5 1\' \' EMSI G12 915 5 fASF# TEAM 8022 DESK 9 RECORDS REQUEST DATE 9/08/2016 RETURN FAX# 800 365-1962 NAME MELODY A OLSON company THRIVENT FINANCIAL-NBA SSN XXX-XX-0569 ACCT# 030 306 DOB 10/16/1956 PO LICY# 8233451 STATE 05-01 823345 FACILITY ANDERSON K SUSAN UNKNOWN ADDRESS 4621 E SUPERIOR ST MIN DULUTH CITY/ST 55804 REQUESTER PH# 218 786-3550 U/W TEAN FAX# 000 000-0000 SPECIAL INSTRUCTIONS PLEASE RETURN THIS FORM WITH REQUESTED INFO 2186254007 GREEN STEPHEN AGENT 05-01 82 3 345 1 ll 2 Please fax records to 800-36 5-1962. Thank you Ne need any and all nedical records for the past 5 years. Please include all typed reports office notes doctor notes LAB/EKG/XRAY test results. WE APPRECIATE YOJR PROMPT RESPONSE If fee is requried please call for fee approval. RETURN TO P.O.Box 2729 Jacksonville FL 32203-2729 TEAM 8022 PHONE 800 456-6921 These documents may contain confidential health information that is privileged and legally protected from disclosure by federal law including the Health Insurance Portability and Accountability Act HIPAA This information is intended only for the use of the individual or entity named above. If you are not the intended recipient you are hereby notified that reading disseminating disclosing distributing copying acting upon or otherwise using the information contained in this correspondence is strictly prohibited. If you have received this information in error please notify the sender immediately and destroy these documents. 9/30/2016 11 01 27 IDRPRTBUNR 3004266 8022 9 IDR212 09/30/2016 11 25AM GMT-05 00 "
+annotations {
+  NAME: "MELODY A"
+  DOB: "10/16/1956"
+  SSN: "XXX-XX-0569"
+  ADDRESS {
+    zipCode: "32203-2729"
+    locations: "Jacksonville"
+    stateAbbr: "FL"
+  }
+  REQUESTOR_ADDRESS {
+    zipCode: "32203-2729"
+    locations: "Jacksonville"
+    stateAbbr: "FL"
+  }
+}
+

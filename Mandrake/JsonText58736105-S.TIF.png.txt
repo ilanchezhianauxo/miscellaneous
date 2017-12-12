@@ -1,0 +1,18 @@
+text: " STATE OF ARKANSAS Disability Determination For Social Security Administration TOLL-FREE # 844-455-2755 ft D Fax# 866-804-2047 0 S04 TX - ASA HUTCHINSON ARTHUR BOUTIETTE Governor Director July 22 2016 THIS FORM MUST BE ON TOP OF YOUR REPORT WHETHER YOU FAX OR MAIL. 10D INC WEATHERFORD REGIONAL MEDICAL CENTER MEDICAL RECORDS 713 EAST ANDERSON WEATHERFORD TX 76086 SSA S04 AR DDS P.O. BOX 8913 LONDON KY 40742-9741 Re CHRIS D MORAN Date of Birth 02/26/1967 CASE# 1701143 SSN XXX-XX-6191 02 R.QID LAR000BFBHH00 SITE S04 DR Vendor# 0028491 A Auth# 20160722500573 XXXXXXXXX SSN DOCTYPE 0001 RF D CS 92b4 CS 92b4 RF D Alt Code 503 DMA Case Y The above named claimant has filed for disability benefits under the Social Security Act. We would appreciate receiving copies of the under the Social Security Act. We would appreciate receiving copies of the following information. If you have questions you call 501 682-9727 toll-free at 1-844-455-2755. PLEASE FAX TO 1-866-804- you can call 501 682-9727 or toll-free at 1-844-455-2755. PLEASE FAX TO 1-866-804- 2047 OR RETURN IN THE ENCLOSED ENVELOPE. Please send all records from 07/2015 to present PAYMENT INFORMATION Payment is allowed by and Federal guidelines. If is required allowed by State and Federal guidelines. If payment is required enter the amount below. PLEASE NOTE FEDERAL TAX ID IS REQUIRED. UNLESS THE REPORT AND THIS COMPLETED FORM ARE RECEIVED WITHIN THIRTY 30 DAYS FROM THE DATE OF THIS REQUEST PAYMENT WILL NOT BE MADE. If you have any questions regarding payment please call 501 683-3137. Check if no records If Records sent Amt Charged S. SIGNED If Copy Service # of pages Authorized Agent PLEASE PROVIDE YOUR TAX ID U IN THE SPACE PROVIDED. IF THE NAME OF THE PAYEE IS NOT THE NAME WE USED IN YOUR ADDRESS THE PAYEE INFORMATION MUST BE PROVIDED BELOW. PLEASE INCLUDE THE NAME AND ADDRESS TO WHOM REMITTANCE SHOULD BE MADE Name Payee Payee Address REQUIRED City State Zip Federal Tax ID # CHECK HERE TO RECEIVE FAXED REQUEST ENTER YOUR MEDICAL RECORDS FAX # dOOOldtx 01031026 "
+annotations {
+  NAME: "CHRIS D"
+  DOB: "02/26/1967"
+  SSN: "XXX-XX-6191"
+  ADDRESS {
+    poBox: "P.O. BOX 8913"
+    zipCode: "40742-9741"
+    locations: "LONDON"
+    stateAbbr: "KY"
+    addressLine2: "SSA S04 AR DDS"
+  }
+  DATES_OF_SERVICE {
+    startDate: "07/2015"
+    endDate: "present"
+  }
+}
+

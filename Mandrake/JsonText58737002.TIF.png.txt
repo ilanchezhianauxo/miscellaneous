@@ -1,0 +1,10 @@
+text: "i MEDICAL RECORD REQUEST Today s Date 9/29/2016 Facility Name United Excellian HAR Number -EH6258744700 WC 433 I Patient Demographics Patient Name RONALD CMUNN Medical Record Number 1000000427 Patients Date of Birth 5/23/1950 5/23/1950 Dates of Service From 5/5/2016 To 5/5/2016 Account Class Other DOCUMENTS REQUESTED Other i Other /PER YOUR REQUEST FOR MEDICAL RECORDS i Include a Copy Charge Yes Post to Adjustment Code 80005056 I Name of the Payer corvel corvel Address of the Payer 3001 NE BROADWAYS ST STE 600 MPLS MN 55413 of the Payer 3001 NE BROADWAYS ST STE 600 MPLS MN 55413 Claim Number 57-119245-001 i MAIL Records to Payer Other if mail address differs from address differs from address to send the Copy Charge Invoice This Request is from Name Denise Lawyer Dept/Floor Cash Appl Processer Internal Routing Number 10207 Phone/Fax 612-262-5641 i Revised 9/16/2016 "
+annotations {
+  NAME: "RONALD CMUNN"
+  DOB: "5/23/1950"
+  DATES_OF_SERVICE {
+    startDate: "5/5/2016"
+    endDate: "5/5/2016"
+  }
+}
+

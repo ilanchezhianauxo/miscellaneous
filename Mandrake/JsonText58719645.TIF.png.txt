@@ -1,0 +1,11 @@
+text: "ARIZONA DEPARTMENT OF ECONOMIC SECURITY TUCSON DISABILITY DETERMINATION SERVICE PO BOX 30731 SALT LAKE CITY CJT 84130-9836 W 520 638-2000/1-800-362-6368 September 21 2016 o o S\' \\o RQID LAZ0008AWAY00 SITE V16 DR 5 00 XXXXXXXXX SSN DOCTYPE 0001 RF D CS lc7a CENTER MEDICAL BAYCARE AURORA Authorization 20160921100416 INFORMATION OF RELEASE ATTN DR FAX ROAD GREENBRIER 2845 SSN 364-98-8777 54311 WI BAY GREEK DOB 07/05/1986 RE JUNGENBERG RICHARD I This agency is making a disability determination on a claim for benefits under the Social. Security Act filed by or on behalf of the above named individual. PLEAlsE 09/2015 FURNISH THE FOLLOWING RECORDS FROM 09/2015 TO PRESENT admission history physical exam and discharge summary outpatient progress notes x-ray reports MRI CT Ultrasound and other imaging reports doctor\'s reports and progress notes and diagnostic testing psychiatric and psychological reports and progress notes IQ tests including subtt st scores We are authorized to pay you a service fee of 13.15 if you are a vendor in Arizona or a copy serv .ce disregard if federal or slate agency for records. Vendors outside of Arizona We will reimburse you in. the amount paid by the Disability Determination Service in your sti te. TREATING PHYSICIANS Plaasa provide an aasossmant of functional capacity i.a. ability tO do work-related activities such as sitting standing walking lifting carrying handling concentration and peroistance social interaction and adaptation and tho medical findii gs that support this opinion. If n receipt of your records it is determined that additional medical information is required and are willing to perform folLow-up examination please contact the Disat ility you are willing to perform a folLow-up examination please contact the Disat ility Examiner at 602-771-7100. CINDY Y./CIN 520-638-2121 REMIT PAYMENT TO If different than above Disatility Examiner Name PAX # 1-866-820-4378 Address Enc Signed Medical release form D200C/cin885/09/08/2016/21//N PFI M TYPE E CNTYCD TUC PTR MR1 Vender # 7908577M Phone CASE NUMBER 1711399 Federal Tax ID# "
+annotations {
+  NAME: "RICHARD"
+  DOB: "07/05/1986"
+  SSN: "364-98-8777"
+  DATES_OF_SERVICE {
+    startDate: "09/2015"
+    endDate: "PRESENT"
+  }
+}
+

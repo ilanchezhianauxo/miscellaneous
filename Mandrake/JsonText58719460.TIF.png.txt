@@ -1,0 +1,16 @@
+text: "04 server Fax 9/13/Z01B 11 23 31 API PAGE 2/005 Fax Server Unum unum Tho Benefits Center P0 Box 100158 Columbia SC 29202-3158 Phone 1-600-3S8-6843 Fax 1-SM-U7-2498 www.unum.com August 23 2016 AURORA BAYCARE MEDICAL CENTER ATTN MEDICAL RECORDS 2645 GREENBRIER RD GREEN BAY Wl 54311-6519 RE Hoffman. Lori B Claim Number 12128316 Policy Number 603505 Unum Life Insurance Company of America America Dear Sir or Madam PATIENT Lori Hoffman DOB April 24.1959 This Is a second request for the same Information. Our original request sent original request was sent on August 18 2016. We have previously written to you requesting information regarding patient Lori Hoffman. your patient Lori Hoffman. Your facility advised Unum Life insurance Company of America that special authorization America that a special authorization was required for release of the records. Enclosed is the required special authorization. Please provide us with copies of the following items dated December 01 2015 to the present present Office notes physical exams questionnaires completed by the patient notes exams questionnaires completed by the patient Consultations by and/or referrals to any physicians to any Reports of diagnostic tests and laboratory results Treatment notes procedure notes and operative reports reports Medication Logs Hospital records including admission and discharge summaries operative notes admission summaries operative notes procedures and major diagnostic studies Enclosed is Lori Hoffman\'s signed Authorization for release of this information. If there are no records available for the requested time period please sign date and return this requested time period please sign date and return this letter for our records. Signature Date UtoJM IS AHEtaSreiED 7HAEEHAJK IMD MARKETING BRAND OF liMM GROUP AMO fTS INSURING SjaSBllWiES. URZ-M 02875005640274201 "
+annotations {
+  NAME: "Lori Hoffman"
+  ADDRESS {
+    zipCode: "29202-3158"
+    locations: "Columbia"
+    stateAbbr: "SC"
+    addressLine1: "Tho Benefits Center"
+    addressLine2: "P0 Box 100158"
+  }
+  DATES_OF_SERVICE {
+    startDate: "December 01, 2015"
+    endDate: "present"
+  }
+}
+

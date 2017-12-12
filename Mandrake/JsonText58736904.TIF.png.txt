@@ -1,0 +1,17 @@
+text: "10/4/2016 2 42 PM Page 2 of 4 MRS Inc. - IOD INCORPORATED - IOD INCORPORATED W Date October 4 2016 2 42 pm Order# 1568031 ATTN DEPT XV RECEIVED BY IOD FOND DU LAC REGIONAL CLINIC 10/05/2016 912 S HICKORY ST FOND DU LAC WI 54935 URGENT Request for Pending Insurance Enclosed please find AUTHORIZATION to obtain and release medical information signed by an to and your patient listed below. Please send PHOTOCOPIES of these records to the address FAX or a summary to or number listed below. Please call the number below if records not available. are not Complete Health History Lab and Test Results Office Notes 2011 to the present PATIENT\'S NAME BRUCE OTTE 06/22/1957 DATE OF BIRTH SOCIAL SECURITY # k -k -k -k -k 0870 We have contacted your office and been informed that you require a pre-payment. A CHECK payment has been made in the amount of 80.00 PLEASE CONTACT US PRIOR . TC PROCESSING THE REQUEST IF THE FEE EXCEEDS THIS AMOUNT. FAX TO 262-432-7620 Telephone 800-726-3643 MAIL TO Management Research Services P.O. Box 2596 Brookfield WI 53008-2596 PLEASE RETURN THIS LETTER WITH THE MEDICAL RECORDS 10/04/2016 3 03PM GMT-05 00 "
+annotations {
+  NAME: "BRUCE OTTE"
+  ADDRESS {
+    poBox: "P.O. Box 2596"
+    zipCode: "53008-2596"
+    locations: "Brookfield"
+    stateAbbr: "WI"
+  }
+  REQUESTOR_ADDRESS {
+    poBox: "P.O. Box 2596"
+    zipCode: "53008-2596"
+    locations: "Brookfield"
+    stateAbbr: "WI"
+  }
+}
+

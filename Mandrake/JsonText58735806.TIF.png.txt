@@ -1,0 +1,19 @@
+text: "Governor Branstad E lowa-Terry of State PUT THIS PAGE ON TOP of lowa-Terry E Branstad Governor Disability Determination Services Bureau NO COVER SHEET NEEDED Phone 1-800-532-1223 Invoice Record Evidence Medical September 28 2016 AUTH. NUMBER 20160928400446 Title 02 Unit 01 RETURN TO STATE OF IOWA DDSB STATE CAPITOL MAYO CLINIC/MAYO FOUNDATION 1015 E. GRAND AVENUE Attn IOD INC/SSD DEPT DEB M DES MOINES IA 50309-9656 ROSA PARKS PAVILLION LL PBBA-20-7 200 1ST ST SW OR fax records to 1-866-536-9702 ROCHESTER MN 55905 Re SHANE BERNARD HANS DOB 05/28/1964 SUCHTING SSN# XXX-XX-0425 522 2ND ST SE BONDURANT IA 50035 The above individual has applied for Social Security and/or Supplemental Security Income Disability Benefits. Social Security has determined this individual has a high probability of being disabled. Please expedite this request for medical records. Please see page 2 for details about information we need for this request. Medical Provider Complete This Section Billed Amount apply may that any Check usual and customary fee but not to exceed 35.00 no charge no records were found explain if necessary records were sent under cover of another request identify that request Provider\'s Authorized Signature Date Unless corrected remittance will be made to Taxpayer ID 650765287 IOD INCORPORATED Attach a completed W-9 if this is not your correct PO BOX 19072 taxpayer identification. GREEN BAY Wl 54307 SN 00002140340 DDS USE ONLY Requested From VN 0002923A Invoice is considered to be original. VENDOR PHONE 507-284-2750 No duplicate payment has been made. PAY TO VN# 0405117B Examiner s Name JENNIFER Case Number 0962494 Approved BY Date Approved Amount Please complete the Billing Section and place this page on top You may fax the requested records to DR S SITE S18 RQID LIA0004B3ZI00 1-866-536-9702 XXXXXXXXX SSN DOCTYPE 0001 RF D CS 6911 ODD DMA Case Y "
+annotations {
+  NAME: "SHANE BERNARD HANS"
+  DOB: "05/28/1964"
+  SSN: "XXX-XX-0425"
+  ADDRESS {
+    zipCode: "50309-9656"
+    locations: "DES MOINES"
+    stateAbbr: "IA"
+  }
+  ADDRESS {
+    zipCode: "55905"
+    locations: "ROCHESTER"
+    stateAbbr: "MN"
+    addressLine1: "ROSA PARKS PAVILLION LL PBBA-20-7"
+    addressLine2: "200 1ST ST SW"
+  }
+}
+

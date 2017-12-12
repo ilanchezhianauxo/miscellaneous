@@ -1,0 +1,30 @@
+text: "Sep 29. 2016 6 40AM FALSANI BAUER PETERSON No. 6573 P. 1 Palsani Balmer Balmer Peterson Quinn Beyer Beyer ATTORNEYS AT LAW 1200Alworth Building 306 West Superior St. Duluth MN 55802-1800 218 723-1990 Fax 218 723-1931 Robert C. FaJsani 1 CM Trial Spudakt \' \' Balmer W. James www. falsanibalmer. com certified by in Knlon l James B. Peterson A BM/d T 1 l Advocacy 2 CMTft Sp eiriet Sean M. Quinn owiiisa by in UrmeuB Eric W. Beysr4 SUM Im AttQCitflOn Stephanie M. Balmer4 a AIM licensed M WieCcndn Paula A. Polaaky AdvucttecwUMbytis September 29 2016 Altaian Boats d Trial Douglas P Merritt 1951 - 1394 7 wi Square. Suite 02 VIA FACSIMILE ONLY 20 North Lake Street Clinic Duluth Forest Lake MN 55025 651 464-lfi9Q ATTN Medical Records Release fle/yplb 400 East Third Street Forest Lake Office Duluth MN 55805 I RE Sharon Nelson Social Security Disability Claim - DOB 5/23/56 SSN 476-68-7360 File No 11-17790 I Persons Dear Persons We would appreciate receiving from you regarding our client Sharon Nelson from August 22 would appreciate receiving from you regarding our client Sharon Nelson from August 22 2015 to the present copies of the following medical records including neuropsychological 1. Any and all clinician office treatment end chart notes. 2. Any and all consultation reports. l 3. Any and all operative reports. 4. Any and all emergency services reports. 5. Any and all urgent care records. 6. Any and all correspondence including letters written to the medical provider and from the medical provider . 7. Any and all diagnostic imaging reports. 8. Any and all clinician office chart notes. 9. Any and all transcribed hospital reports or records Including discharge summaries history and physical. 10. Any and all physical therapy records. 11. Any and all Reports of Workability and other medical opinion forms. of Workability and other opinion 12. Any and all lists of restrictions or other similar. An updated medical authorization is enclosed for your information. Please note that this is a request for medical records for the purposes of a Social Security disability appeal. Under Minn. Stat. 144.292 subd. 6 d you may not charge a fee to provide copies of these records as the client/patient is on public assistance although you may charge 10.00 for a retrieval fee. Thank you. Best regards 5 an M in smauinf fnibalmer.com SMQ/ph Enclosure 09/29/2016 6 31AM GMT-05 00 "
+annotations {
+  NAME: "Sharon Nelson"
+  DOB: "5/23/56"
+  SSN: "476-68-7360"
+  ADDRESS {
+    zipCode: "55802-1800"
+    locations: "Duluth"
+    stateAbbr: "MN"
+  }
+  ADDRESS {
+    zipCode: "55025"
+    locations: "Forest Lake"
+    stateAbbr: "MN"
+    addressLine1: "7&wi Square. Suite $ 02"
+    addressLine2: "20 North Lake Street"
+  }
+  ADDRESS {
+    zipCode: "55805"
+    locations: "Duluth"
+    stateAbbr: "MN"
+    addressLine1: "ATTN:"
+    addressLine2: "400 East Third Street"
+  }
+  DATES_OF_SERVICE {
+    startDate: "August 22, 2015"
+    endDate: "present"
+  }
+}
+

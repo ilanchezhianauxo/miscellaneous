@@ -1,0 +1,24 @@
+text: " RaE 26098 PO\'vp M3 Box 26098 MCS 8700 West 36Th Street 109 Suite Fax 952-541-9761 St. Louis Park MN 55426 Support Litigation mcs@mcsrecords.com bv needed Records Wednesday Septemh r 21 2016 Wednesday October 05. 2016 Emory University Hospital Midtown 5S0 Peachtree Street NE Room L10-I Atlanta GA 30306 ATTN Request for Records RE DOROTHY HOUSTON DOB 11/30/1940 SSN 254-60-5495 To Whom It May Concern Please be advised that the undesigned is an authorized representative of McSweeney Langavln. Attached is an authorization signed by Dorothy Houston allowing to allowing you to release information to MCS Litigation Support. Please provide a copy of the Operative Report Implant/Product Label Post-Operative Report and any records showing the use of a Bair HuggeriWarming Blanket Device ONLY for the Open Heart Surgery done at your facility. PLEASE CHECK ALL DATES FOR THESE RECORDS. /The patient believes the surgery was in 2014 . Forward the was in 2014 . Forward the requested information to MCS MGS is Tax Exempt PO Box 2601 8 8700 West 36TH Street Suite 109 St. Louis Park MN 55426 If the charges for tills roquost exceeds 100.00 please contact me If you have any questions concerning this request and/or need further Information please call me at 952 544-0932. Thank you for your anticipated cooperation in this regard. Sincerely Account Manager Request ID 168 151 "
+annotations {
+  NAME: "DOROTHY HOUSTON"
+  DOB: "11/30/1940"
+  SSN: "254-60-5495"
+  ADDRESS {
+    zipCode: "55426"
+    locations: "St. Louis"
+    stateAbbr: "MN"
+  }
+  ADDRESS {
+    zipCode: "30306"
+    locations: "Atlanta"
+    stateAbbr: "GA"
+    addressLine1: "5S0 Peachtree Street NE"
+    addressLine2: "Room L10-I"
+  }
+  ADDRESS {
+    zipCode: "55426"
+    locations: "St. Louis"
+    stateAbbr: "MN"
+  }
+}
+

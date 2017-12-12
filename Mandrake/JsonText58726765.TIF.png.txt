@@ -1,0 +1,29 @@
+text: "DISABILITY DETERMINATION SERVICES 1 w Providing quality disability determination services to South Carolinians in a responsive timely and cost-effective manner. Colombia Regional Office P.O.Box 80 West Columbia. SC29171-0080 803 896-6700 Toll-free 800 868-9777 Medical Infomiation Fax 866 653-2523 iod September 28 2016 SEP l 9 2016 RE HOSPITAL PROVIDENCE AQUILLA M HICKS ATTN MEDICAL RECORDS -RECEIVED 2435 FOREST DRIVE AKA COLUMBIA SC 29204 ADD 30 NOTTINGHAM COURT COLUMBIA SC 29209 Ref. No R62502 DOB 08/12/77 This patient has applied for disability benefits under the Social Security Act. We need the following information for the patient Treatment Period 07/01/2015 TO PRESENT If available please send ALL Hospital Records and/or Reports for this patient including but not limited to summaries Admission/Discharge X-rays and Imaging Studies Operative notes - - - Records Outpatient and Inpatient Laboratory Studies / Notes Pathology reports - - - Consults Outpatient and Inpatient Physician Histories Physician Exams - - - Conclusions t records Room Emergency All Diagnostic Studies i.e. Cardiac PFT etc. - - Therapy Records i.e. Physical Speech Occupational etc. - Additional Information if requested Sincerely Enclosure Release Claim No R62502 Patrice Dunlap Disability Examiner Attention Medical Records Department Payment and Records Transmission Instructions - This is your authorization to send medical records and receive payment for those records using this letter. We can only pay for payment those records using this can pay records received we cannot pay for records search. We cannot prior year invoices received than 45 days after the close of a We cannot pay prior year more that fiscal year which ends Sept 30. We do not accept personalized invoices To receive payment sign and return this invoice . letter below. THIS LETTER MUST BE ON TOP OF ALL RECORDS/REPORTS SENT Records mav be mailed or faxed If . Payee Name and Address has changed print the new information in the space provided. We pay 20.00 when the requested records/reports have been received. Out of state reports are paid according to that state s fee schedule. T Payee Name and Address MAIL INSTRUCTIONS TO REMIT Amount Billed See Invoice iod incorporated page Po Box 19072 slow Green Bay Wl 54311 TIN# 65-0765287 Telephone 866-420-7455 EXT 512 Electronically signed by GALLMAN 822208 DATE 10/20/2016 nuuiviuiwu uiguutuiv yt\\v uu t.u iv iwvvivv pajuiwui I 4 x#va u / v London KY 40742-8704 RETURN RECORDS BY FAX TO SCDDS AT 8661 653-2523 PDU/171 DMA Y TDN 0106240312 ML3 7/16 SCElSNo 7000137610 RQID 0106240312R62502 SITE S45 DR S SSN XXXXXXXXX D0CTYPE 0001 RF D CS 3d95 "
+annotations {
+  DOB: "08/12/77"
+  ADDRESS {
+    zipCode: "29209"
+    locations: "COLUMBIA"
+    stateAbbr: "SC"
+    addressLine2: "30 NOTTINGHAM COURT"
+  }
+  ADDRESS {
+    zipCode: "29204"
+    locations: "COLUMBIA"
+    stateAbbr: "SC"
+    addressLine1: "ATTN:"
+    addressLine2: "2435 FOREST DRIVE"
+  }
+  ADDRESS {
+    zipCode: "40742-8704"
+    locations: "London"
+    stateAbbr: "KY"
+    addressLine1: "GALLMAN, 822208 DATE:"
+    addressLine2: "4 \342\200\242 x#va u / v*\302\273"
+  }
+  DATES_OF_SERVICE {
+    startDate: "07/01/2015"
+    endDate: "PRESENT"
+  }
+}
+

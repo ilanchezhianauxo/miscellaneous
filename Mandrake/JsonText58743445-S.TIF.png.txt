@@ -1,0 +1,21 @@
+text: "/ o -A. U.S. LEGAL SUPPORT INC. fh C\\ A Record Retrieval Company A RUSH REQUEST 0. o 9 September 29 2016 \\ s \\ O\' 84584 001 No. Order Please contact us Phone 713-653-7100 Fax 713-653-7171 Medical-Records Custodian Atm YAKIMA REGIONAL MEDICAL CENTER 110 SOUTH 9TH AVENUE YAKIMA WA 98902 Records pertaining to Gerald Moore DOB 02/08/1951 SN XXX-XX-3895 Records Requested FOR DA TES OF SER VICE FROM 01/01/2012 TO 12/31/2012 a copy of the Tomicr Implant product identification stickers labels notation in OR record and a copy of the Operative Report for shoulder surgery pertaining to Gerald Moore DOB 02/08/1951 SSN xxx-xx-3895. DUE DATE Dear Sir/Madam U.S. Legal Support Inc is records retrieval service company that provides litigation support to the legal and insurance a retrieval company that support to the industry. Our attomey/client has requested that we locate records specified in the enclosed legal documents ASAP Please provide all requested documents pertaining to Gerald Moore. Please check that all copies are legible and that no are no information is omitted. ENCLOSED IS AN AUTHORIZATION signed by the above-mentioned or their legal representative . Please Fax Records 713-653-7171 i. to 2. Mailing Address U.S. LEGAL SUPPORT INC. RECORDS DIVISION 363 N. Sam Houston Parkway E. Suite 1200 Houston TX 77060 FEE NOTIFICATION PLEASE DO NOT COPY THE DOCUMENTS UNTIL YOU HAVE NOTIFIED US OF ANY CHARGES OVER 75.00 CONTACT US Call 713 653-7100 ask for an expediter and reference the following number-when calling 84584.001 We will be happy to . assist you in completing this request. completing this request. Copied by lOD JmJtjrpofsied regards Rest GoelSSlSlGtoTH FPAuth N/N 12 3 4 8 8 Cynthia Price \'p Address Verified Payer O CL No Charge U.S. Legal Su Invoice BWs Q rqi Prob Form CL Invoice l-l-\\S Vca TO-3-lfa Date Emp\'lD # Order No. JM5W.O01 "
+annotations {
+  DOB: "02/08/1951"
+  SSN: "XXX-XX-3895"
+  ADDRESS {
+    zipCode: "98902"
+    locations: "YAKIMA"
+    stateAbbr: "WA"
+    addressLine2: "1"
+  }
+  ADDRESS {
+    zipCode: "77060"
+    locations: "Houston"
+    stateAbbr: "TX"
+  }
+  DATES_OF_SERVICE {
+    startDate: "01/01/2012"
+    endDate: "12/31/2012"
+  }
+}
+

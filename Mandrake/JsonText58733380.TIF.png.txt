@@ -1,0 +1,6 @@
+text: "Fax Oct 3 2016 07 59am PD01/UU1 JJj Saint Thomas Heart I S \\ - \\ t www.savntthomasheatT.com Nashville brentwood franklin oallatin mcminnvjlle mt. juliet REQUEST FOR RECORDS jJI/S HD. JR WAUOIE 7. HOWARD Phone DavidBrian Cromwell TO N-S.BABU.M.D. l David Brian MD Cromwell TO N-S.BABU.M.D. Fax MS Zl3Sl0 jOSETH 1. BOYD JR M.D. ARTHUR . CONSTANTINE. M.D. RICK L BENNETT M.D. Patient Name Sawyer Cary Si AKXI . CLAF5 7Nj M.D. MARKS OOlCKAfttf M.D. DANTE J. GRAVES HD. 02/05/1949 SSN XXX-XX-6608 Date of Birth JAMES H. BAKER. CLMD. ooowasjl PEARCE. M.D. G.S.SCOVTOE.JR..M.D DAVTONK GIBSON. M.D. WSVANSXEMRJR M.D. Date Bobby by Requested 09/30/16 MARK KOENIG. M.D. HaRXA. ZENKER M.D. HO. AARON MARK Phone 615-222-7748 K AARON HO. W. DAVID THOMPSON. M.D. EaN 0- HUGHES M.D. FAX 615-565-6554 DON ft. CUOMSKT. M.D. PH.M- FHAWS Wl STEPHEN A. FAHRK5. M.O. Information requested requested MARKA. STANKEV/IOZ M.D. LESLIE M. ObSRST M.D. Please send Holter results ordered 09/13/16 . VAFAG MANSOUfU D.O. on JOEL T N3XR M.D M.D Thanks ann jackson. hd. WrrOATA.COGUE.MD. Sf J teoannd Mo.diar HD. BARTLETT G. THOMAS \\ ALCINAU P. DtQ3B50N yi hx3r SHI \\ fjxd -\\Ksl doVsn. U\'\' droxd do Cdr .ft pvsu pvsu \' "
+annotations {
+  NAME: "Sawyer Cary Si"
+  SSN: "XXX-XX-6608"
+}
+

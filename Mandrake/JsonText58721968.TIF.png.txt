@@ -1,0 +1,25 @@
+text: "REC\'D SEP 2 6 m STATE OF AR KANSAS tHi Disability Determination For Social Security Administration TOLL-FREE # 844-455-275S B Fax# 877-8651 9111 SOJ- LA ASA HUTCHINSON ARTHUR BOUT1ETTE Governor Director September 20 2016 THIS FORM MUST BE ON TOP OF YOUR REPORT WHETHER YOU FAX OR MAIL. IOD ERIC OBERLANDER MD MEDICAL RECORDS/JOD STE 200 10I0J PARK ROWE AVE SSA SOJ AR DDS BATON ROUGE LA 70810 P. O. BOX 8944 LONDON KY 40742-9752 Re EARLY JOSEPH DOUCCET Date of Birth 10/28/1985 CASE# 1721460 SSN XXX-XX-2744 02 R.QID LAR000BOO7T00 SITE S03 DR S DR S Vendor# 1135835M Auth# 20160920501751 SSN 1\'\' DOCTYPE 0001 RF D CS c0cf CS c0cf RF D DOCTYPE 0001 \'\' 1 Alt Code 17N DMA Case Y The above named claimant has filed for disability benefits under the Sock Security Act. We would appreciate receiving copies of fire under the Sock Security Act. We would receiving copies following information. If have questions call 501 682-9727 toll-free at 1-844-455-2755. PLEASE FAX TO 1-877-869- you have questions you can call 501 682-9727 or toll-free at 1-844-455-2755. PLEASE FAX TO 1-877-869- 9111 OR RETURN IN THE ENCLOSED ENVELOPE. Describe the patient s ability to do work activities such sit. stand walk lift handle objects hear speak and travel. Please cite work activities such as sit. stand walk lift carry handle objects hear speak and travel. Please cite specific clinical and/or laboratory findings for limitations noted. clinical and/or laboratory findings for any limitations noted. Describe the patient s ability to understand to out and remember instructions and to respond appropriately to supervision coworkers carry out and remember instructions and to respond appropriately to supervision coworkers and work pressure in a work setting. Please cite specific clinical and/or laboratory findings for any limitations noted. clinical and/or laboratory findings for any limitations noted. ALLEGATIONS severe major depression mood disorder anxiety traumatic brain injury neurocognitive memory toss attention deficit depression a mood disorder anxiety a traumatic brain injury neurocognitive memory disorder insomnia chronic pain chronic Please send all records from 8/201 2 to present present PAYMENT INFORMATION If is required the Payment is allowed by State atd Federal guidelines. If payment is required enter the amount below. PLEASE NOTE FEDERAL TAX ID IS REQUIRED. UNLESS THE REPORT AND THIS COMPLETED FORM ARE RECEIVED WITHIN THIRTY 30 DAYS FROM THE DATE OF THIS REQUEST PAYMENT WILL NOT BE MADE. If you have any questions regarding payment please call 501 683-1285. regarding payment please call 501 683-1285. Check if records SIGNED . If Records sent Amt Charged S no records If Records sent Amt Charged S If Copy Service # of pages Authorized Agent PLEASE PROVIDE YOUR TAX ID H IN THE SPACE PROVIDED. IF THE NAME OF THE PAYEE IS NOT THE NAME WE USED IN YOUR ADDRESS THE PAYEE INFORMATION MUST BE PROVIDED BELOW. PLEASE INCLUDE THE NAME a AND. ADDRESS TO WHOM REMITTANCE SHOULD BE MADE / ddress A Payee Name Payee / /REQUIRED City State Zip Federal Tax ID # CHECK HERE TO RECEIVE FAXED REQUEST ENTER YO JR MEDICAL RECORDS FAX # dOOOldml 0103101S "
+annotations {
+  NAME: "JOSEPH DOUCCET"
+  DOB: "10/28/1985"
+  SSN: "XXX-XX-2744"
+  ADDRESS {
+    zipCode: "40742-9752"
+    locations: "LONDON"
+    stateAbbr: "KY"
+    addressLine1: "SSA SOJ AR DDS"
+    addressLine2: "P. O. BOX 8944"
+  }
+  ADDRESS {
+    zipCode: "70810"
+    locations: "BATON ROUGE"
+    stateAbbr: "LA"
+    addressLine1: "STE 200"
+    addressLine2: "10I0J PARK ROWE AVE"
+  }
+  DATES_OF_SERVICE {
+    startDate: "8/20"
+    endDate: "present"
+  }
+}
+

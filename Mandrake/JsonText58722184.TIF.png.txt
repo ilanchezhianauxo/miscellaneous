@@ -1,0 +1,14 @@
+text: "Received by 2016 SEP 3 0 ClOXHEW-TH Minnesota Department of Human Services 560Q2B606GG18925568 State Medical Review Team SMRT Request for Medical Records Date 9/30/2016 To Grand Itasca Cl Hosp 1601 Golf Course Rd Grand Rapids MN 55744 Re Dennis Jerome DOB 7/14/2005 SMRT Case Number 162775 SMRT is conducting disability review on this patient and needs the following information a disability review on this patient and needs the following information Please send records for the last 12 months. All medical records Fax records to SMRT securely at 651 431-7457 or 1-800-662-3359. You MUST place this letter top of the records. on top of the records. Mail to DHS State Medical Review Team P O Box 64248 St. Paul. MN 55164-0248 SMRT Case Manager Vang Her Phone 651-431-3357 SMRT Hotline 651-431-2493 or 1-800-235-7396 Enclosure Authorization to Release Protected Health Information This information is available in accessible formats for individuals with disabilities by calling accessible formats for individuals with disabilities by calling local 651-431-2493. toll-free 800-235-7396 or by using your preferred relay service. For other information on disability rights and protections contact the agency\'s ADA coordinator. agency\'s ADA coordinator. Page 1 "
+annotations {
+  NAME: "Dennis Jerome"
+  DOB: "7/14/2005"
+  ADDRESS {
+    zipCode: "55744"
+    locations: "Grand Rapids"
+    stateAbbr: "MN"
+  }
+  DATES_OF_SERVICE {
+    option: "last 12 months"
+  }
+}
+

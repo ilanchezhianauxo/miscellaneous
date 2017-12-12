@@ -1,0 +1,14 @@
+text: " 2M RECEIVED SEP 1 Kalfus \' OFFICE ROANOKE OFFICE A.J KALFUS 1322 PLANTATION ROAD NACHMAN L. STUART Nachman ROANOKE. VIRGINIA 24012 RICHARD F. AUFENGER. Ill HERNANDEZ TELEPHONE 1540 343-4078 PAUL R. HERNANDEZ FACSIMILE 8001 340-5935 JESSE M SUIT. Ill THOMAS A. FITZGERALD 11 A T T O RN EYS AT LAW CHRISTOPHER I- JACOBS PROFESSIONAL CORPORATION MICHAEL J. LEVENS A PROFESSIONAL n NEWPORT NEWS OFFICE COLIN P O\'OAWE SUITE 300 N 870 HIGHWAY MILITARY 749-B J.CLYDE MORRIS BOULEVARD NEAL C. SCHULWOLF AT MILITARY CIRCLE NEWPORT NEWS. VIRGINIA 23601 BLAIR 6. SMIRCINA NORFOLK VIRGINIA 23502 757 TELEPHONE 873-4878 DEBORAH B. VAUGHN TELEPHONE 7571 461-4900 TELEPHONE 757 757 FACSIMILE 873-6379 FACSIMILE IT57I 46 1-1516 September 9 2016 Sentara Careplex Hospital ATTN PATIENT RECORDS 4000 Coliseum Drive Suite 450 Reg.# IbliqU 9 4 Date Hampton VA 23666 KPGS Initials Garrett Sarice 4 Fiehe #Comput r Re Client Sarice Garrett SSN XXX-XX-9897 Date of Birth 1/19/1977 Date of Injury 12/24/2015 TREATMENT DATES 2/17/16- Nick Sablan MD Our File No. 260019 Dear Sir/Madam We represent Sarice Garrett for injuries sustained in an accident of 12/24/2015. Regarding represent an of client for those injuries please forward the following information to my office your treatment my my Upon completion of treatment nlease provide me with an ENTIRE COPY OF YOUR MEDICAL CHART for Sarice Garrett including any DISABILITY or OUT OF WORK SLIPS that have been given to my client. Also please provide your Tax ID Number. may to my your In the event of the charges for processing the above will exceed 100.00 please notify our office in advance of copying same. Enclosed is medical authorization signed by my client for the release of the requested a my information. Please also note that the Code of Virginia prohibits any other lawyer or anyone acting or anyone lawyer\'s behalf from obtaining information about this patient without the consent of the patient. on a consent Quite obviously client absolutely withholds consent for you member of office to our consent you or any member your to confer with attorney other than affiliated with this law firm. any attorney one Thank for kind cooperation and assistance in this matter. you your matter. Very trulv orffsl i Blair E. SmlKina BES/jlr Sarice Garrett cc CORRESPONDENCE TO PLEASE DIRECT ALL VIRGINIA 23541-0889 P.O. BOX 12889. NORFOLK EMAIL IN4URY@KNLEGAL.COM "
+annotations {
+  NAME: "Garrett"
+  DOB: "1/19/1977"
+  SSN: "XXX-XX-9897"
+  ADDRESS {
+    zipCode: "23666"
+    locations: "Hampton"
+    stateAbbr: "VA"
+    addressLine1: "ATTN:"
+    addressLine2: "4000 Coliseum Drive, Suite 450"
+  }
+}
+

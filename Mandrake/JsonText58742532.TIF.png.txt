@@ -1,0 +1,23 @@
+text: "100111345 4 X HEALTH Keais Order No. 197225.005 OCT 1 2 2016 int S L pgsj L RECORDS RETRIEVAL Please Use Keais Secure Records Delivery It is Records Medical of Custodian Attn Fast Easy HIPAA Compliant University Health System Go to https \\\\www.keais.com Records Delivery Highway Kings 1501 - Enter Order Number on the Request Shreveport LA 71103 Enter Patient s Date of Birth on the Request Upload the Records Keais Order No 197225.005 Click Submit to Securely Send to Keais Main Phone # 318-675-5981 Fax # or please send records to PO Box 525597 Houston Tx. 77052 FAX #713-936-2782 mailed be also will request This If you need to send records via UPS or FED EX please send to request - Please only process once. 1010 Lamar St Suite 1800 Houston Tx. 77002 Thank you. Patient Name or Subject Matter Valerie Shanta Russell Date of Birth 09/16/1990 Social Security # XXX-XX-6457 Scope of Records being Requested Records Type Medical Records ANY AND ALL MEDICAL RECORDS FROM 1/1/2006 TO THE PRESENT please provide on CD if possible including but not limited to patient information sheets patient questionnaires medical history forms consents for treatment and any other type of new patient documentation doctor\'s notes nurse\'s notes patient evaluation forms narratives insurance records reports office notes prescription records and/or documentation related to medication administration test results physical therapy occupational therapy and/or speech therapy records correspondence files and/or charts telephone message slips copies of any type of notation s on any file folder hospital records radiology and lab reports progress notes out-patient and ER records all correspondence to or from patient or patient s attorney including any and all letters of protection received on behalf of the patient. Date range of records 01/01/2006 to Present This is legal request requiring Certification/Declaration a request a Certification/Declaration You upload the records to website fax the records instead of mailing with the may to our secure or with the ATTACHED Certification/Declaration. IF THE FEE FOR THE RECORDS EXCEEDS 101.00 please contact our office prior to copying the records so that a fee approval may be obtained from the attorney. We will not be able to pay any invoices that do not accompany the records and have not been approved. If you have any questions please contact Keais Records Service at 877-807-5162 or 713-358-3863 local 713-936-2783 fax or e-mail at customerservice2@keais.com. Please reference the above order number. reference the above order number. PLEASE DO NOT CONTACT THE ORDERING ATTORNEY S OFFICE DIRECTLY. RECEIVED \'plot\' SEP 2 9 2016 /Dl\'03 I Itoivarsity Haatti ShnwwpGflt c "
+annotations {
+  NAME: "Valerie Shanta Russell"
+  DOB: "09/16/1990"
+  SSN: "XXX-XX-6457"
+  ADDRESS {
+    zipCode: "71103"
+    locations: "Shreveport"
+    stateAbbr: "LA"
+    addressLine1: "University Health System"
+    addressLine2: "1501 Kings Highway"
+  }
+  REQUESTOR_ADDRESS {
+    zipCode: "71103"
+    locations: "Shreveport"
+    stateAbbr: "LA"
+  }
+  DATES_OF_SERVICE {
+    startDate: "1/1/2006"
+    endDate: "PRESENT"
+  }
+}
+

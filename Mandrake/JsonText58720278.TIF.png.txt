@@ -1,0 +1,27 @@
+text: "Commonwealth of Virginia-Department for Aging and Rehabilitative Services DISABILITY DETERMINATION SERVICES SSA S10 ROANOKE VA DDS RQID LVA000BSQG300 SITE S10 DR S PO BOX 8802 SSN ww DOCTYPE 0001 RF D CS 20d7 LONDON KY 40742-8802 Telephone 540-857-7748 Fax 866-802-5842 Toll Free 800 627-1288 TTY 800 464-9950 REQUEST FOR PAYMENT SSA S10 ROANOKE VA DDS PO BOX 8802 LONDON KY 40742-8802 1111 ill I ml il lull ilill 111111111 Hi mil 111111 li 111111111 i i i c If sending reports than in the envelope place this you are sending reports on more than one person in the same envelope place this page for EACH INDIVIDUAL top of his/her medical evidence. f on top of his/her medical evidence. f f RECORDS FOR Name John Sproles Case Number. 0553828/454 SSN 223-94-9615 Authorization Number 20160910100033 Request 0019069 sent to f ABINGDON FAMILY PRACTICE ATTN RELEASE OF INFORMATION SUITE 200 613 CAMPUS DRIVE ABINGDON VA 24210 PLEASE READ Check to if your complete and address correct. If changes needed see your complete name and address are correct. If any changes are needed or payment should be made to another address or copy service please note the changes above on this request for payment Be sure to be clear if if s a change of address or just for i l payment purposes. This payment voucher MUST be returned if you are requesting payment. Please fill in amount requesting for the records. Total payments for records received amount you are records. payments for records received against this Authorization Number cannot exceed the Authorized Fee below. cannot Fee If this form is returned and the Fee for Records block below is not completed Disability returned and the Fee for Records block below is not completed Disability Determination Services will assume that payment is not being requested for the records. assume that payment is not requested records. FEE FOR RECORDS Yes No 1 No X Yes RECORDS FOR FEE IOD INCORPORATED Authorized Amt S 15.00 PO Box 19072 15.00 Amt Authorized Green Bay Wl 54307-9072 S Billed 920-406-6537 S Amount Billed PH 866-420-7455 ext 512 FAX # Please provide the following Ta VENDOR TIN 65-0765287 Tax exempt YES NO Billed Amount 15.00 IOD ORD # 46485234 f . . ... - . t t "
+annotations {
+  NAME: "John Sproles"
+  SSN: "223-94-9615"
+  ADDRESS {
+    zipCode: "40742-8802"
+    locations: "LONDON"
+    stateAbbr: "KY"
+  }
+  ADDRESS {
+    poBox: "PO BOX 8802"
+    zipCode: "40742-8802"
+    locations: "LONDON"
+    stateAbbr: "KY"
+  }
+  ADDRESS {
+    zipCode: "40742-8802"
+    locations: "LONDON"
+    stateAbbr: "KY"
+  }
+  ADDRESS {
+    zipCode: "40742-8802"
+    locations: "LONDON"
+    stateAbbr: "KY"
+  }
+}
+

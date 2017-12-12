@@ -1,0 +1,16 @@
+text: "1-2165878043 Fax IOD #2 To From Jacksonville Telepro Team Date 09/1546 09 55AM Page 2 of 7 cm EMSI C008085 CASE# TEAM 8023 DESK 12 RECORDS REQUEST DATE 8/30/2016 R F.TURN FAX# 800 365-1962 NAME ANDREA C VINCENT company PRUDENTIAL-HO ORDERED SSU XXX-XX-4526 ACCT# 021116 DOB 12/18/1987 P0LICY# V2432750 STATE PA 2021790 FACILITY CLINIC CLEVELAND L N KNOWN ADDRESS 9500 EUCLID AVE CITY/ST CLEVELAND OH 44195 REQUESTER PH# 2160444-2640 U/l/i\' TEAM FAX# 216 587-8043 SPECIAL INSTRUCTIONS PLEASE RETURN THIS FORM WITH REQUESTED INFO 4122478070 AGENT KATHERINE V10RRIS0N RECHECKNEED RENAL US #40 DJE 07/16 #41 A0RT0GRAVI #44 ABD RESULTS TEST #44 ANGI0PLAS Please fax records to 800-365-1962 Need all records last 5 years as priority. PI ease include labs Please call for fee approval if payrent required. Records can be uploaded securely to EMSI chart loader portal hi Ids //charls.ensinet.con/ Notice Electronic signatures fully conply with the Federal Electronic Signature status Title 15 ll.S.f. Chap 96 Sec. 7001 es seq. and is therefore fully legal and valid as an original. The Department of Health and Huran Services has also expressly permitted the use of electronically signed authorizations. For questions regarding e-signed authorizations please call 254.299.4551 for further discussion. RETURN TO P.0. Box 2729 Jacksonville FL 32203-2729 Jim 8023 PHONE 800 456-6921 These documents may contain confidential health information that is privileged and legally protected fron disclosure by federal law including Lhe Health Insurance Portability and Accountability AcL HIPAA . This information is intended only tor the use of the individual or entity named above It you are not the intended recipient you are hereby notified that reading disseirinaling disclosing distributing copying acting upon or otherwise using the information contained in this correspondence is strictly prohibited. If you have received this information in error please notify the sender immediately and destroy these documents. 9/14/2016 9 54 52 IDRPRTBUNR 7 7772 i 8G23 12 IDR212 "
+annotations {
+  NAME: "ANDREA C"
+  DOB: "12/18/1987"
+  ADDRESS {
+    zipCode: "44195"
+    locations: "CLEVELAND"
+    stateAbbr: "OH"
+  }
+  ADDRESS {
+    zipCode: "32203-2729"
+    locations: "Jacksonville"
+    stateAbbr: "FL"
+  }
+}
+

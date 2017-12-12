@@ -1,0 +1,17 @@
+text: "09-29-16 02 27PM 763-236-8930 # 3/ 6 Trevor Brown CIGNA Group Insurance POBox 29063 Qlffldnie CA 91209 Phone SI8.500. 5662 Fox 818-517-9873 CIGNA Group Insurance Lift ActiidenL Disnbi lily www.rnvclanB.eom DR. BRADLEY HELMS 280 NORTH SMITH AVENUE DOCTORS PROFESSI SAINT PAUL MN 55102 September 28 2016 t Name JOHN LARSON Number Incident 4089778 Number Plan/Policy FLK09S01S4 Holder Plan/Policy VISTA OUTDOOR INC. Company Underwriting Life Insurance Company of North America DEAR DR. HELMS Wc arc reviewing the Long Term Disability LTD claim for your patient JOHN LARSON. Your patient s date of birth is October 15 1962. In order to review your patient s eligibility for LTD benefits we will need he following Complete conies of office visit notes from JUNE 23a 2016 to present Hospital Intake/Discharge summary and/or Operative Rcporl s summary Test rcsults/fmdings for example MRI\'s EKLG s x-ray s etc -- Treatment plan including meds frequency of treatment referrals Physical Therapy etc. Restrictions and limitations that prevent ed patient from returning to work Estimated return to work date/date patient released to return to work. was Enclosed is an authorization to release this information to us. Please be advised dial an off work note is not sufficient documentation to certify disability. In order to help expedite the handling of your patient s claim please fax this information to S18-5I7-9S73 If necessary also mail the requested information to the above address. you may to If there is a fee for the medical records requested please forward a bill including your Tax ID number with the return of the requested records. Please contact our office at 818-500-6662 should you have any questions. Sincerely Trevor Brown OGNA Group insurance Is a roofatersd SMVifi m h of CIGNA InWflMtuW Property. Inc.. IKomodforvw fiytaBwn rtC9 com party ButolflmrfcB Of CK3NAG0 irporgittn hifiHidlnti Uffl InsurenCa Company of Nortfi Amirfca CtSNA lhb Iniurancs Company of New York and Connscllmt Gsnerol Ufa Insurance s Company. ProducK and aerW cat are prodded Qy mats fniurwicB nomparcysubBldfartoa ami nol by GBNA CoiporilUM. H REF 5527333A001 PAGE 3 OF 4 "
+annotations {
+  NAME: "JOHN LARSON"
+  DOB: "October 15, 1962"
+  ADDRESS {
+    zipCode: "55102"
+    locations: "SAINT PAUL"
+    stateAbbr: "MN"
+    addressLine1: "DR. BRADLEY HELMS"
+    addressLine2: "280 NORTH SMITH AVENUE DOCTORS PROFESSI"
+  }
+  DATES_OF_SERVICE {
+    startDate: "JUNE 2016"
+    endDate: "present"
+  }
+}
+

@@ -1,0 +1,11 @@
+text: "From WFI Incorporated 1.626.628.9628 Wed Sep 28 16 00 18 2016 MDT Page 1 of 6 d 5 3f nq-9-Z- Disability Premier - - SEP 292016 Date Sep 28 2016 Patient KNATT MARIA DOB 05/11/1964 RP ID 2887615 Client ID Ho. 59134 JOHNS HOPKINS 1800 ORLEANS ST ATTN MEDICAL RECORDS BALTIMORE MD 21287 Social Security Benefit Appeal Your patieni has filed a claim for Social Security Disability benefits through Disability Premier that is on appeal. We require additional information to document the patient\'s medical file and are only requesting SPECIFIC INFORMATION as listed below Records Required Special Request From. April 17 2014 to Present Seen by John Hopkins. PLEASE RUSH. Records are urgently needed for for SS Benefits Hearing. Thank you. FEE LIMITS Fees in compliance with state statutes for Social Security requests will be honored up to 30.00 without prior approval. COPY SERVICES Fees within the limits governed by state statute will be honored without prior approval provided only the requested information is supplied. QUESTIONNAIRES Fees up to 75.00 will be honored without prior approval. We will cir. tact you by phone/fax until the requested information is received. Pleute us--- the following cover page to return information Lo ReleasePoin L. Thank you for your cooperation John Ortiz Phone 310 872-2174 Email provldersQreleasepoint com 213 986-3103 Secure FAX . "
+annotations {
+  NAME: "MARIA"
+  DOB: "05/11/1964"
+  ADDRESS {
+    zipCode: "21287"
+    locations: "BALTIMORE"
+    stateAbbr: "MD"
+  }
+}
+

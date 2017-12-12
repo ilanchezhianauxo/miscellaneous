@@ -1,0 +1,21 @@
+text: "1 From JoSie Matheson Fax. 763 333-2598 To 13072354017 Fax 13072354017 Page 2 of 4 09/21/2016 3 59 PM PL ASE RETURN THIS PAGE FOR TRACKING PAYMENT BjAmerican Retrieval Document Retrieval Services 09/21/2016 Record Request# 161720 Work Order# 571048 Fax # 307-235-4017 Attention Medical Records IMPORTANT PLEASE RESPOND Wyoming Nephrology ON OR BEFORE 10/03/2016 X 419 S. Washington St. Suite 102 Casper WY 82601 RE Hower Rhonda Lynn Rhonda Erickson sgs ill DOB 12/03/1966 SSN XXX-XX-0990 i Attention Medical Records Enclosed is a document for the release of information for Rhonda Lynn Hower. We would appreciate if you would forward a copy of the followings. C -9/2016. Dates 3/2016 Specifically Please send treating records for DOS 3/2016 - 9/2016. Including but not limited to the records from Dr. Casey Cotant MD. We would appreciate that these records be forwarded to American Retrieval before 10/03/2016. If you feel you are unable to meet this time frame please call the undersigned. We also understand that there may be a fee for processing this request. If so please include an invoice and a copy of this cover letter with the records and we wilt promptly submit payment. If call immediately so that we may expedite this process. Also we would your company requires prepayment please immediately so that we may process. we would appreciate a call if you anticipate the charges to be greater than SI00.00 so we may have the option to request less or get client approval. Thank you for your anticipated cooperation. Sincerely Josie Matheson jmatheson o ameri canretrieva I .com If any questions or problems develop call. .763-233-7300 or 888-972-9901 Records may also be faxed to. .763-233-7301 or 888-972-9902 Please be advised we will only pay according to the states statute for copies of records. Thank you. American Retrieval Company 2905 Northwest Blvd. Suite 228 Plymouth MN 55441 763-233-7300 "
+annotations {
+  NAME: "Rhonda Lynn"
+  DOB: "12/03/1966"
+  SSN: "XXX-XX-0990"
+  ADDRESS {
+    zipCode: "82601"
+    locations: "Casper"
+    stateAbbr: "WY"
+  }
+  ADDRESS {
+    zipCode: "55441"
+    locations: "Plymouth"
+    stateAbbr: "MN"
+  }
+  DATES_OF_SERVICE {
+    startDate: "3/2016"
+    endDate: "9/2016"
+  }
+}
+
