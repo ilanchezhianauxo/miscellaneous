@@ -1,5 +1,0 @@
-text: "0-1 9/8/2016 4 07 04 PM PAGE 2/003 Fax Server i travelers Travelers Prop Cas Co Of Americ P.O. Box 3205 Naperville IL6C566-7205 09/08/2016 Aurora BayCare Medical Center 2345 Greenbrier Rd Green Bay Wl 54311 Employer Ws Packaging Group Inc Employee Mike Rohde Number Claim E1E9097 Injury of Date 08/25/2014 ATTN Aurora BayCare Medical Center I am writing to obtain additional information for the workers compensation claim lor patient claim lor your patient Mike Rohde whose date of birth is 11/09/1977. Please provide with the information indicated provide us with the information indicated below x Update work status Please fax the requested information to 877 786-5567 and reference the claim number claim number 028-CB-E1E9097-F on the front page of the fax. if you have any questions please contact questions please contact me at the telephone number or email address listed below. Thank you. C23213WSCW "
-annotations {
-  NAME: "Mike Rohde"
-}
-

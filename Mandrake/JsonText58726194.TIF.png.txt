@@ -1,9 +1,0 @@
-text: "received SEP REQUEST FOR RELEASE OF PATIENT RECORDS September 22 2016 Emory University Hospital 1364 - Clifton Road Room C260 Atlanta OA 30322 Attention Records Department Patient Blayanda Varner DOB 7/15/1983 Record Dates 1/1/2015 8/1/2016 Requested Records Discharge Summary Please provide the records in electronic format and charge appropriate fees per the records and charge appropriate per requirement of 45 CFR 164.524/cR2 tI Please return patient records to the address below. A signed release form is enclosed. Piet return to sc notify before processing if fees exceed 250.00 or do not comply with state statutes for us fees or not state statutes medical record copies. National Record Retrieval 101 E. Carmel Drive Ste. Ill Carmel IN 46032 877-815-2003 Fan 317-993-3668 Phone please note Thank You National Record Removal Libby Hair rBP enO\'S # patient patient Retrieval Record National names above in Retrieval Record National raflerriv to a legal matter. V-nsneU / "
-annotations {
-  DOB: "7/15/1983"
-  DATES_OF_SERVICE {
-    startDate: "1/1/2015"
-    endDate: "8/1/2016"
-  }
-}
-

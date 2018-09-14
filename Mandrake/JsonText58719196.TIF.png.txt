@@ -1,9 +1,0 @@
-text: "BEND WEST THE SILVER LINING 3l/ 6 77 \' September 20 2016 RAYMOND BACHHUBER MD 1881 CHICAGO STREET SEP 2 7 DEPERE WI 54115 2 7 20IS Claim Number AE29389 Insured JUDITH GROONWALD AND CARL GROONWALD Date of Loss 02/17/2013 Patient CART GROONWALD Patient Birth Date 10/14/1933 We have received information indicating the abovc-iiamed patient was treated at your facility. Please send the following information for this patient All medical records from 2/17/08 to 2/17/13. A signed medical authorization is enclosed. If there is a charge for the records please include your invoice with the records. Indicate your tax number here Sincerely PAULENE ULIK AIC INS SR CLAIM REPRESENTATIVE 262 334-6438 or 800 236-5010 Extension 6438 Fax 262 335-7000 PULIK@WBMI.COM Enclosure WB-1696 7-05 1900 S. 18th Avenue West Bend WI 5309S thesilvcrlining.com "
-annotations {
-  DOB: "10/14/1933"
-  DATES_OF_SERVICE {
-    startDate: "2/17/08"
-    endDate: "2/17/13"
-  }
-}
-

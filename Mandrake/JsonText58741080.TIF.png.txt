@@ -1,8 +1,0 @@
-text: "P.O. Box 3026 U2 Milwaukee W 53201-3026 800-258-2667 Fax 262-787-7701 www.unitedheartland.com United Heartland - Managing Risk. Insuring Success September 14 2016 Affinity Urgent Care Attn Medical Records I 3329 N. Richmond St. 1 Appleton Wl 54911 l OCT 0 3 20I6 RE Claim No. 041600013880 Employee Janis Heifner Employer. YMCA of the Fox Cities Inc Date of Accident September 10 2016 Date of Birth February 08 1957 Underwritten By United Wisconsin Insurance Company Dear Provider United Heartland on behalf of United Wisconsin Insurance Company is handling Workers\' a Workers\' Compensation claim for the above named patient. Please provide us with the information identified below. This request is made under 5102.13 2 Wis. Stats. Pursuant to Wis. Stat. 102.13 2 b we will pay 45 cents per page or 7.50 per request whichever is greater plus the actual costs of postage. If you desire prepayment we must be advised of the exact number of pages you will be sending us. We will promptly prepay the balance. A complete copy of all medical therapy and radiology records from date of copy from of injury to the present. Once we have received the information requested we will be happy to process your invoice. For faster processing of bills please submit all bills with the corresponding medical records. Thank you for your cooperation. Sincerely Laura Bergmann Laura Bergmann Claims Support Specialist United Heartland is the marketing name for United Wisconsin Insurance Company a member of Accident Fund Holdings lnc. AFHI . All policies are underwritten by a licensed insurer subsidiary of AFHl. "
-annotations {
-  DOB: "February 08, 1957"
-  DATES_OF_SERVICE {
-    startDate: "September 10, 2016"
-  }
-}
-

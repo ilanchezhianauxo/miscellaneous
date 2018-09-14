@@ -1,6 +1,0 @@
-text: "I CHI St. Luke\'s Health CHI St. Luke\'s Health The Woodlands Hospital - Health Information Management 17200 St. Luke\'s Way 7-204 The Woodlands TX 77384 October 8 2016 PATIENT FINANCIAL SERVICES To State Office Of Risk Management ATTN JOELENE VILTZ Requestor Phone No. Requestor Fax No. RE Request to obtain copies of health records Records of Taja Meshawn Dasha Wilkerson MRN 05310114 Date of Birth 7/6/1997 Release ID 5397013 Date request received 10/3/2016 Dear PATIENT FINANCIAL SERVICES Attached is the protected health information that you requested. Should you have any questions you may contact us Monday through Friday 8 00 a.m. until 4 30 p.m. Central Standard Time at the following numbers Phone 936-266-3955 Sincerely Release of Information Health Information Management CHI St. Luke\'s Health The Woodlands Hospital - "
-annotations {
-  NAME: "Dasha Wilkerson"
-  DOB: "7/6/1997"
-}
-

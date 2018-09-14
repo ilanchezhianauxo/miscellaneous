@@ -1,9 +1,0 @@
-text: "rum jv-cqucsis rage i or j i Record Request i lidwest Record Retrieval RUSH PLEASE FAX P.O.Box 1027 TO REPLY CLAIM PENDING Imperial MO 63052 i Phone 636 787-1035 Fax 636 296-8485 URGENT REQUEST Check for attachments. Facility Information u mEMT Dr. Lawrence Colassacco 18810 Chicago St. De Pere Wi 54115 United States 7 7 - Za pa L L 920 403-8000 tfSfl qjJD- 40U- Patient Information EP\'8 2tW\'- Last Name Pansier Todjd First Name Middle Initial J Address 4501 Rockledge Ct City DePere State. WI Zip 54t 15 Country United States Phone Claim/Policy Number 6892094 Birth Date 02/16/82 SSN - -9573 MR# cso Information Requested All medical records from April\'2014 to the present. IF YOU ARE A HOSPITAL INPATIENT RECORDS WE WILL ONLY PAY FOR H P FACE SHEETS OP NOTES AND ER RECORDS. DO NO COPY ANYTHING ELSE. DR OFFICES DATES OF SERVICE AS OUTLINED OV. TESTING MED SHEETS ARE A MUST. PLEASE DO NOT STAPLE RECORDS.If records do not exist per request or we choose to cancel we are not responsible for any type of processing canceling or base fees. Alternate Fax 636 287-1612 636 287-6068 or 636 287- 8793 Central St Fee Limit 50.00 URGENT OFFICE ArialysLLisa S 8/30/2016 7 55 31 AM I\'LL Ap AUTH.WT O o "
-annotations {
-  DOB: "02/16/82"
-  DATES_OF_SERVICE {
-    startDate: "2014"
-    endDate: "present"
-  }
-}
-
